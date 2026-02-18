@@ -1,0 +1,718 @@
+{
+  "PropertyTypes": {
+    "moradia": "Maison",
+    "apartamento": "Appartement",
+    "casa": "Maison",
+    "terreno": "Terrain",
+    "escritorio": "Bureau",
+    "comercial": "Commercial",
+    "industrial": "Industriel",
+    "armazem": "Entrepôt",
+    "loja": "Magasin",
+    "garagem": "Garage",
+    "quinta": "Ferme",
+    "terreno_urbano": "Terrain Urbain",
+    "terreno_rustico": "Terrain Rural"
+  },
+  "Hero": {
+    "title": "L'agence immobilière la plus exclusive du Portugal.",
+    "description": "Découvrez des propriétés exclusives au Portugal avec notre agence immobilière spécialisée.",
+    "buy": "Acheter",
+    "rent": "Louer",
+    "developments": "Développements",
+    "businessTransfer": "Cession de fonds",
+    "location": "Localisation",
+    "type": "Type",
+    "typology": "Typologie",
+    "select": "Sélectionner",
+    "search": "Rechercher",
+    "searchPlaceholder": "Louer t3 à Porto",
+    "noResults": "Aucun résultat trouvé",
+    "searchButton": "Trouver"
+  },
+  "ZonasMaisDesejadas": {
+    "title": "Les zones les plus recherchées",
+    "description": "Découvrez les régions qui attirent ceux qui recherchent l'exclusivité, le confort et un style de vie incomparable.",
+    "imageAlt": "Image de {nome}",
+    "viewAll": "Voir tout",
+    "noZones": "Aucune zone disponible pour ce pays"
+  },
+  "Testemunhos": {
+    "title": "Ce que disent nos clients",
+    "description": "Chaque clé porte une histoire, chaque foyer accueille un rêve, ce sont les voix de ceux qui ont trouvé leur lieu parfait.",
+    "satisfiedClients": "clients satisfaits",
+    "viewMore": "Voir plus",
+    "imageAlt": "image-témoignage",
+    "noTestimonials": "Aucun témoignage disponible pour le moment",
+    "testimonial1": {
+      "text": "Vânia est merveilleuse, elle connaît très bien le marché où elle opère et assiste depuis la recherche de propriété jusqu'aux détails finaux. Super important d'avoir une personne de confiance toujours prête à aider. Nous recommandons à 100% !",
+      "name": "Lucimara Bordignon Borghetti"
+    },
+    "testimonial2": {
+      "text": "Agência Douro a fait toute la différence dans la vente de ma maison. La vente s'est déroulée très rapidement. Vânia Fernandes, propriétaire de l'Agence, super sympathique et compétente, était toujours prête à répondre à mes questions. Je recommande toujours.",
+      "name": "Maria Oliveira"
+    },
+    "testimonial3": {
+      "text": "Excellent service différencié de toutes les agences immobilières que j'ai connues à Porto. Éthique, engagement, connaître l'entreprise, pour moi ce fut un cadeau du ciel. Félicitations Agência Douro. Félicitations entrepreneure Vânia Fernandes !",
+      "name": "Walter Martins"
+    }
+  },
+  "FaleConnosco": {
+    "title": "Contactez-nous",
+    "subject": "Sujet",
+    "subjectPlaceholder": "Sélectionnez le motif du contact",
+    "subjectOptionGeneral": "Général",
+    "subjectOptionPodcastParticipate": "Participer au podcast",
+    "subjectOptionPodcastSuggest": "Podcast – suggérer un thème",
+    "subjectOptionPodcastQuestion": "Podcast – question ou demande",
+    "subjectOptionPropertyBuy": "Immobilier – achat",
+    "subjectOptionPropertySell": "Immobilier – vente",
+    "sendingMessage": "Envoi du message...",
+    "messageSentSuccess": "Message envoyé avec succès !",
+    "messageSendError": "Erreur lors de l'envoi du message. Veuillez réessayer.",
+    "name": "Nom",
+    "namePlaceholder": "Tomas Ribeiro Silva",
+    "phoneNumber": "Numéro de téléphone portable",
+    "phonePlaceholder": "+351 919 766 323",
+    "email": "Email",
+    "emailPlaceholder": "contacto@agenciadouro.pt",
+    "message": "Message",
+    "messagePlaceholder": "Envoyez-nous un message !",
+    "marketingConsent": "J'autorise Agência Douro à conserver ces données",
+    "send": "Envoyer",
+    "emailDescription": "Envoyez-nous votre question ou demande par email.",
+    "contact": "Contact",
+    "contactDescription": "Vous pouvez également nous contacter par téléphone.",
+    "socialMedia": "Réseaux sociaux",
+    "socialMediaDescription": "Nous sommes très actifs sur les réseaux, suivez-nous !",
+    "address": "Adresse",
+    "addressDescription": "Venez nous rendre visite, nous vous attendons ici."
+  },
+  "Footer": {
+    "home": "Accueil",
+    "properties": "Propriétés",
+    "aboutUs": "À propos de nous",
+    "contact": "Contact",
+    "newsletter": "Newsletter",
+    "podcast": "Podcast",
+    "buy": "Acheter",
+    "rent": "Louer",
+    "developments": "Développements",
+    "luxuryProperties": "Propriétés de luxe",
+    "copyright": "© Agência Douro. AMI 17 632",
+    "termsAndConditions": "Termes et conditions",
+    "complaintsBook": "Livre de réclamations en ligne"
+  },
+  "Newsletter": {
+    "title": "Newsletter",
+    "description": "Restez informé des dernières actualités du marché immobilier",
+    "loading": "Chargement des newsletters...",
+    "error": "Erreur lors du chargement des newsletters.",
+    "noNewsletters": "Aucune newsletter disponible.",
+    "all": "Toutes",
+    "categories": {
+      "market": "Marché",
+      "tips": "Conseils",
+      "news": "Actualités"
+    },
+    "noNewslettersInCategory": "Aucune newsletter trouvée dans cette catégorie."
+  },
+  "NewsletterDetails": {
+    "loading": "Chargement de la newsletter...",
+    "notFound": "Newsletter introuvable",
+    "backToNewsletters": "← Retour aux newsletters",
+    "newsletter": "Newsletter",
+    "readingTime": "min de lecture",
+    "logoAlt": "Logo Agência Douro",
+    "relatedProperties": "Propriétés associées",
+    "categories": {
+      "market": "Marché",
+      "tips": "Conseils",
+      "news": "Actualités"
+    }
+  },
+  "SobreNos": {
+    "whoWeAre": "Qui sommes-nous",
+    "title": "À propos de nous",
+    "subtitle": "Spécialistes en immobilier de luxe au Portugal",
+    "description1": "Chez Agência Douro, notre mission est de transformer les rêves en réalité, toujours avec un engagement inébranlable envers la transparence et la responsabilité. Notre équipe est composée de professionnels hautement qualifiés, prêts à vous aider à réaliser le rêve de votre vie.",
+    "description2": "Opérant sur le marché national et international, Agência Douro est reconnue pour sa transparence, sa responsabilité et son engagement à offrir la tranquillité d'esprit dans chaque transaction. Que ce soit pour votre propre logement ou pour un investissement, nous offrons un soutien complet pour garantir que votre affaire soit sûre et efficace.",
+    "yearsExperience": "Années d'expérience",
+    "propertiesSold": "Propriétés vendues",
+    "satisfiedClients": "Clients satisfaits",
+    "eurosInTransactions": "Euros en transactions",
+    "legal": "(appel au réseau mobile national)",
+    "instagramFollowers": "Abonnés Instagram",
+    "ourIdentity": "Notre identité",
+    "ourCulture": "Notre culture",
+    "culture": {
+      "excellence": {
+        "title": "Excellence",
+        "description": "Nous croyons en l'excellence comme norme, la transparence comme base de confiance et l'intégrité comme principe non négociable."
+      },
+      "dedication": {
+        "title": "Dévouement",
+        "description": "Nous valorisons le service personnalisé et dévoué, reconnaissant que chaque client a des besoins uniques."
+      },
+      "innovation": {
+        "title": "Innovation",
+        "description": "L'innovation et l'adaptation aux besoins du marché sont des piliers de notre culture, nous permettant d'offrir toujours le meilleur service possible."
+      }
+    },
+    "whatWeOffer": "Ce que nous offrons",
+    "ourServices": "Nos services",
+    "contact": "Appelez maintenant",
+    "services": {
+      "legalConsulting": {
+        "title": "Conseil juridique",
+        "description": "Nous garantissons que toutes les transactions immobilières sont effectuées de manière sûre et conforme à la législation en vigueur."
+      },
+      "mortgageConsulting": {
+        "title": "Conseil en crédit immobilier",
+        "description": "Nous vous aidons à trouver les meilleures options de financement, adaptées à vos besoins et à votre profil financier."
+      },
+      "realEstatePromotion": {
+        "title": "Promotion immobilière",
+        "description": "Nous développons des stratégies marketing sur mesure pour maximiser la visibilité et la valeur de votre bien sur le marché."
+      },
+      "projectManagement": {
+        "title": "Gestion de projets immobiliers",
+        "description": "Nous accompagnons et coordonnons toutes les phases de votre projet immobilier, de la planification à la livraison finale."
+      },
+      "realEstateInvestments": {
+        "title": "Investissements immobiliers",
+        "description": "Nous identifions les meilleures opportunités d'investissement immobilier grâce à des analyses de marché rigoureuses et un rendement optimisé."
+      },
+      "goldenVisa": {
+        "title": "Visa Gold",
+        "description": "Nous guidons les investisseurs internationaux dans l'ensemble du processus d'obtention du Visa Gold par l'investissement immobilier au Portugal."
+      },
+      "mortgagePartners": {
+        "title": "Partenaires de crédit immobilier",
+        "description": "Nous travaillons avec un réseau de partenaires bancaires de confiance pour vous garantir les meilleures conditions de financement."
+      }
+    },
+    "meetOurTeam": "Rencontrez notre équipe",
+    "ourTeam": "Notre équipe",
+    "teamDescription": "Notre équipe est composée de professionnels hautement qualifiés et expérimentés, dédiés à fournir le meilleur service et à transformer vos rêves en réalité.",
+    "viewMore": "Voir plus",
+    "viewLess": "Voir moins",
+    "loading": "Chargement...",
+    "loadingCulture": "Chargement des éléments culturels...",
+    "loadingServices": "Chargement des services..."
+  },
+  "Podcast": {
+    "exclusiveContent": "Contenu exclusif",
+    "title": "Podcast Norte Imobiliário e Business",
+    "subtitle": "Conversations sur le marché immobilier de luxe au Portugal",
+    "description": "Un podcast dédié à la discussion des tendances, défis et opportunités du marché immobilier de luxe au Portugal, avec la participation d'experts et de professionnels du secteur. Le Podcast Norte Imobiliário e Business offre des informations pratiques et du contenu inspirant pour les investisseurs, les courtiers et les personnes intéressées par l'immobilier et les affaires, étant une source fiable d'information sur le secteur portugais.",
+    "heroIntro": "Conversations sur le marché immobilier dans le Nord du Portugal — expérience réelle, décisions sur le terrain et contact direct avec investisseurs, chefs d'entreprise et professionnels du secteur.",
+    "aboutLabel": "Le podcast",
+    "aboutTitle": "À propos du podcast",
+    "aboutIntro": "Norte Imobiliário & Business est un espace de conversation sur le marché immobilier dans le Nord du Portugal, construit à partir d'une expérience réelle, de décisions sur le terrain et d'un contact direct avec investisseurs, chefs d'entreprise et professionnels du secteur.",
+    "aboutOrigin": "Ici on parle des sujets qui comptent : marché, investissement, développement, opportunités et risques. Avec clarté, langage direct et une attention à ceux qui ont besoin de mieux décider — pas de vendre des récits.",
+    "aboutIntention": "Chaque épisode est une conversation à table. Un thème à la fois, le temps nécessaire pour approfondir et des participants qui apportent vision, parcours et contenu pertinent.",
+    "aboutPresentation": "Ce podcast existe pour ceux qui veulent mieux comprendre le marché, suivre les tendances et, quand cela a du sens, s'asseoir à la table pour contribuer avec leur perspective.",
+    "guestsLabel": "Invités",
+    "guestsTitle": "Qui passe par le podcast",
+    "guestsDescription": "Les épisodes accueillent des spécialistes et professionnels du secteur : avocats, conseillers en crédit, investisseurs et autres acteurs de l'immobilier et des affaires. Ce sont des voix avec une expérience pratique, qui apportent des cas réels et des perspectives pour mieux comprendre ce qui se passe dans le Nord du Portugal.",
+    "guestsList": [
+      { "name": "Invité 1", "role": "Avocat" },
+      { "name": "Invité 2", "role": "Conseiller en crédit" },
+      { "name": "Invité 3", "role": "Investisseur" },
+      { "name": "Invité 4", "role": "Agent immobilier" }
+    ],
+    "sponsorImageAlt": "Partenaire",
+    "sponsorText": "Notre partenaire soutient des conversations de qualité sur l'immobilier et les affaires dans le Nord du Portugal.",
+    "whyListenLabel": "Raisons",
+    "whyListenTitle": "Pourquoi nous écouter",
+    "whyListenSubtitle": "Contenu pensé pour ceux qui veulent suivre le marché et prendre des décisions informées.",
+    "whyListenCards": [
+      { "iconKey": "mic", "title": "Conversations en profondeur", "subtext": "Le temps d'explorer chaque thème avec clarté et sans précipitation." },
+      { "iconKey": "trendingUp", "title": "Tendances du marché", "subtext": "Analyse pratique de ce qui se passe dans le Nord du Portugal." },
+      { "iconKey": "building", "title": "Focus sur le territoire", "subtext": "Connaissance de ceux qui sont sur le terrain depuis des années." },
+      { "iconKey": "users", "title": "Voix diverses", "subtext": "Avocats, conseillers, investisseurs et acteurs du secteur." },
+      { "iconKey": "scale", "title": "Information utile", "subtext": "Contenu qui aide pour les décisions d'achat, vente ou investissement." },
+      { "iconKey": "fileText", "title": "Thèmes pratiques", "subtext": "Épisodes qui apportent de la valeur au quotidien." }
+    ],
+    "heroCtaSpotify": "Écouter sur Spotify",
+    "heroCtaYouTube": "Voir sur YouTube",
+    "heroCtaContact": "Contacter le podcast",
+    "institutionalLabel": "Positionnement",
+    "institutionalTitle": "Un actif institutionnel de l'Agência Douro",
+    "institutionalBody": "Le podcast n'est pas une campagne. C'est un actif institutionnel de l'Agência Douro. Il naît de l'expérience réelle de l'équipe sur le marché immobilier du Nord du Portugal et reflète l'engagement de la maison à partager le savoir, mener le débat et servir ceux qui investissent, achètent ou vendent avec discernement.",
+    "ctaFinalLabel": "Prochaine étape",
+    "ctaFinalTitle": "Cet espace est pour ceux qui ont quelque chose à dire.",
+    "ctaFinalDescription": "S'il est pertinent de s'asseoir à la table et partager votre vision, c'est ici que vous pouvez présenter votre proposition de participation au podcast. Nous sélectionnons sujets, récits et invités qui élèvent la conversation.",
+    "ctaFinalButton": "PRÉSENTER UNE PROPOSITION DE PARTICIPATION",
+    "ctaFinalMailSubject": "Proposition de participation au podcast",
+    "ctaFinalHint": "",
+    "testimonialsLabel": "Témoignages",
+    "testimonialsTitle": "Ce que nos auditeurs en disent",
+    "testimonialsSubtitle": "Découvrez pourquoi les professionnels partout au Portugal écoutent le Podcast Norte Imobiliário & Business pour des analyses du secteur.",
+    "testimonialsPrevAria": "Témoignage précédent",
+    "testimonialsNextAria": "Témoignage suivant",
+    "testimonialsList": [
+      { "name": "Joana S.", "role": "Investisseuse, Porto", "text": "Un podcast essentiel pour qui veut suivre les tendances de l'immobilier. Contenu de qualité et invités de premier plan." },
+      { "name": "Miguel R.", "role": "Consultant, Braga", "text": "Les conversations apportent des perspectives qu'on ne trouve nulle part ailleurs. Je le recommande à tout professionnel du secteur." },
+      { "name": "Carla M.", "role": "Agente immobilière, Gaia", "text": "J'écoute tous les épisodes. Le niveau des invités et des thèmes reflète ce qui compte vraiment sur le marché." }
+    ],
+    "ctaFinalSuggestTopic": "Suggérer un thème pour le podcast",
+    "ctaFinalNewsletter": "Recevoir les alertes des prochains épisodes",
+    "episodes": "Épisodes",
+    "seasons": "Saisons",
+    "guests": "Invités",
+    "themesAndInsights": "Thèmes et perspectives",
+    "whatWeCover": "Ce que nous abordons",
+    "topics": {
+      "marketTrends": {
+        "title": "Tendances du marché",
+        "description": "Analyses approfondies des tendances actuelles du marché immobilier de luxe au Portugal et opportunités d'investissement."
+      },
+      "investmentTips": {
+        "title": "Conseils d'investissement",
+        "description": "Conseils pratiques sur la façon d'investir dans des propriétés de luxe, du choix de l'emplacement aux stratégies de valorisation."
+      },
+      "internationalVision": {
+        "title": "Vision internationale",
+        "description": "Perspectives sur les investisseurs étrangers au Portugal et comparaisons avec d'autres marchés internationaux."
+      }
+    },
+    "logoAlt": "logo podcast",
+    "watchNow": "Regardez maintenant",
+    "featuredEpisodes": "Épisodes en vedette",
+    "episodesDescription": "Découvrez nos épisodes les plus regardés et restez informé des conversations qui transforment le marché immobilier de luxe.",
+    "episode": "Épisode",
+    "apresentadora": {
+      "label": "Présentation",
+      "credential": "Consultante immobilière, AMI 17 632",
+      "paragraph1": "Vânia Fernandes intervient sur le marché immobilier du Nord du Portugal avec un focus sur la décision, la stratégie et la lecture du marché. Avec plus de 15 ans d'expérience en immobilier résidentiel et commercial, elle a construit son parcours sur le terrain, en accompagnant les cycles, investisseurs, chefs d'entreprise et opérations de haute complexité.",
+      "paragraph2": "Dans le podcast, elle assure le rôle de conductrice de la conversation — elle questionne, approfondit et apporte du contexte sur des thèmes qui influencent directement ceux qui achètent, vendent, investissent ou développent des projets immobiliers.",
+      "paragraph3": "Son approche est claire : moins de discours, plus de fond. L'objectif est de créer des conversations qui informent mieux et élèvent la qualité des décisions dans l'immobilier.",
+      "quote": "Nous voulons que ceux qui nous écoutent aient plus de contexte, plus de discernement et plus d'assurance dans les décisions qu'ils prennent.",
+      "linkedInLabel": "LinkedIn",
+      "linkedInUrl": "https://www.linkedin.com/in/vaniamfernandes",
+      "stats": {
+        "anosExperiencia": "Années d'expérience",
+        "eurosTransacoes": "Euros en transactions",
+        "clientesSatisfeitos": "Clients satisfaits",
+        "episodiosGravados": "Épisodes enregistrés"
+      },
+      "imageAlt": "Vânia Fernandes - Consultante immobilière & Animatrice"
+    },
+    "diretorProducao": {
+      "label": "Direction de Production",
+      "name": "Directeur de Production",
+      "credential": "Producteur audiovisuel & Stratège de contenu",
+      "paragraph1": "Avec plus de 10 ans d'expérience en production audiovisuelle et communication digitale, il est responsable de l'ensemble de la direction créative et technique du podcast. De la pré-production à la post-production, il veille à ce que chaque épisode respecte le standard de qualité exigé par le projet.",
+      "paragraph2": "Son travail va au-delà de la captation du son et de l'image — il implique la recherche de thèmes, la préparation des contenus, la coordination des invités et la construction d'un récit qui rend chaque conversation pertinente et captivante pour l'auditeur.",
+      "paragraph3": "Il est convaincu qu'un bon podcast naît de la combinaison entre un contenu de valeur et une exécution technique irréprochable. Chaque détail compte : du cadrage au montage final, tout est pensé pour offrir la meilleure expérience à l'auditeur.",
+      "quote": "Notre objectif est que chaque épisode soit une référence — en contenu et en qualité de production.",
+      "linkedInLabel": "LinkedIn",
+      "linkedInUrl": "https://www.linkedin.com/",
+      "imageAlt": "Directeur de Production du Podcast"
+    },
+    "galleryLabel": "Galerie",
+    "galleryTitle": "Notre Studio",
+    "galleryDescription": "Enregistré dans un studio professionnel au cœur de Porto, nous garantissons une qualité audio et vidéo maximale pour chaque épisode. Un cadre pensé pour des conversations inspirantes et productives.",
+    "galleryOpenAria": "Voir l'image en grand",
+    "galleryCloseAria": "Fermer",
+    "galleryImageAlt": "Studio du podcast",
+    "whereToFindUs": "Où Nous Trouver",
+    "whereToFindUsTitle": "Écoutez sur Vos Plateformes Préférées",
+    "whereToFindUsDescription": "Suivez-nous sur les principales plateformes de streaming pour ne jamais manquer un épisode. Disponible où que vous soyez.",
+    "closeVideo": "Fermer la vidéo",
+    "videoNotSupported": "Votre navigateur ne prend pas en charge la lecture de vidéos.",
+    "playVideo": "Lire la vidéo"
+  },
+  "Sidebar": {
+    "buy": "Acheter",
+    "businessTransfer": "Cession de fonds",
+    "developments": "Développements",
+    "propertyType": "Type de propriété",
+    "selectPropertyType": "Sélectionnez le type de propriété",
+    "bedroomsAndBathrooms": "Chambres et Salles de bain",
+    "bedrooms": "Chambres",
+    "bathrooms": "Salles de bain",
+    "priceAndArea": "Prix et Surface utile",
+    "minPrice": "Prix minimum",
+    "maxPrice": "Prix maximum",
+    "minUsefulArea": "Surface utile minimum",
+    "maxUsefulArea": "Surface utile maximum",
+    "minimum": "Minimum",
+    "maximum": "Maximum",
+    "location": "Localisation",
+    "country": "Pays",
+    "selectCountry": "Sélectionnez le pays",
+    "district": "District",
+    "selectDistrict": "Sélectionnez le district",
+    "municipality": "Municipalité",
+    "selectDistrictFirst": "Sélectionnez d'abord un district",
+    "selectMunicipality": "Sélectionnez la municipalité",
+    "region": "Région",
+    "enterRegion": "Entrez la région",
+    "city": "Ville",
+    "enterCity": "Entrez la ville",
+    "other": "Autre",
+    "propertyState": "État de la propriété",
+    "energyClass": "Classe énergétique",
+    "rent": "Louer",
+    "favorites": "Favoris",
+    "search": "Rechercher",
+    "clear": "Effacer",
+    "propertyStates": {
+      "new": "Neuf",
+      "used": "Usagé",
+      "renovated": "Rénové",
+      "underConstruction": "En construction"
+    }
+  },
+  "Imoveis": {
+    "filter": "Filtrer",
+    "of": "de",
+    "properties": "propriétés",
+    "sortBy": "Trier par :",
+    "loading": "Chargement des propriétés",
+    "error": "Erreur lors du chargement des propriétés",
+    "noResults": "Aucune correspondance.",
+    "noResultsDescription": "Nous n'avons trouvé aucune propriété correspondant à vos critères de recherche.",
+    "loadingSuspense": "Chargement...",
+    "sortOptions": {
+      "mostRecent": "Plus récent",
+      "oldest": "Plus ancien",
+      "lowestPrice": "Prix le plus bas",
+      "highestPrice": "Prix le plus élevé"
+    },
+    "seoTitle": "Biens immobiliers à vendre et à louer au Portugal",
+    "luxuryTitle": "Biens immobiliers de luxe au Portugal"
+  },
+  "AvaliadorOnline": {
+    "button": {
+      "mobile": "ÉVALUATEUR",
+      "desktop": {
+        "line1": "ÉVALUATEUR",
+        "line2": "EN LIGNE"
+      }
+    },
+    "title": "Évaluateur en ligne",
+    "subtitle": "Remplissez le formulaire ci-dessous pour recevoir une évaluation de votre bien",
+    "personalData": {
+      "title": "Données personnelles",
+      "name": "Nom",
+      "phone": "Numéro de téléphone portable",
+      "email": "Email",
+      "namePlaceholder": "Tomas Ribeiro Silva",
+      "phonePlaceholder": "+351 919 766 323",
+      "emailPlaceholder": "contacto@agenciadouro.pt"
+    },
+    "propertyData": {
+      "title": "Données de la propriété",
+      "type": "Type de propriété",
+      "purpose": "Finalité",
+      "typology": "Typologie",
+      "observations": "Observations supplémentaires",
+      "observationsPlaceholder": "Informations supplémentaires sur la propriété...",
+      "selectType": "Sélectionnez le type",
+      "select": "Sélectionner",
+      "purposeOptions": {
+        "sale": "Vente",
+        "rent": "Location"
+      }
+    },
+    "marketingConsent": "J'autorise Agência Douro à conserver ces données",
+    "submitButton": "Demander une évaluation",
+    "toast": {
+      "sending": "Envoi de l'évaluation...",
+      "success": "Évaluation envoyée avec succès !",
+      "error": "Erreur lors de l'envoi de l'évaluation. Veuillez réessayer."
+    },
+    "emailMessage": {
+      "title": "=== DEMANDE D'ÉVALUATION DE PROPRIÉTÉ ===",
+      "type": "TYPE DE PROPRIÉTÉ",
+      "purpose": "FINALITÉ",
+      "typology": "TYPOLOGIE",
+      "observations": "OBSERVATIONS"
+    }
+  },
+  "NotFound": {
+    "title": "Page introuvable",
+    "description": "La page que vous recherchez n'existe pas ou a été déplacée. Vérifiez l'adresse ou utilisez les liens ci-dessous.",
+    "backHome": "Retour à l'accueil",
+    "viewProperties": "Voir les biens",
+    "exploreSite": "Explorer le site"
+  },
+  "Header": {
+    "home": "Accueil",
+    "properties": "Propriétés",
+    "buy": "Acheter",
+    "rent": "Louer",
+    "avaliar": "Évaluateur en ligne",
+    "developments": "Développements",
+    "businessTransfer": "Cession de fonds",
+    "luxuryProperties": "Propriétés de luxe",
+    "whoWeAre": "Qui sommes-nous",
+    "aboutUs": "À propos de nous",
+    "podcast": "Podcast",
+    "newsletter": "Newsletter",
+    "contact": "Appelez maintenant",
+    "institutional": "Institutionnel",
+    "logoAlt": "Logo Agência Douro",
+    "sellMyProperty": "Vendre ma propriété"
+  },
+  "ImoveisDestacados": {
+    "title": "Propriétés en vedette",
+    "description": "Une sélection rigoureuse de propriétés qui représentent le plus haut standard de qualité, d'architecture et d'emplacement, conçue pour répondre aux besoins des clients les plus exigeants.",
+    "viewAll": "Voir tout",
+    "viewAllMobile": "Voir tout",
+    "loading": "Chargement des propriétés en vedette...",
+    "error": "Erreur lors du chargement des propriétés en vedette. Veuillez réessayer plus tard.",
+    "noProperties": "Aucune propriété en vedette disponible pour le moment.",
+    "area": "superficie",
+    "contact": "Appelez maintenant",
+    "bathroom": "salle de bain",
+    "bathrooms": "salles de bain",
+    "bedroom": "chambre",
+    "bedrooms": "chambres",
+    "garageSpace": "place de garage",
+    "garageSpaces": "places de garage",
+    "development": "Développement",
+    "viewFullPage": "Voir la page complète",
+    "propertyIn": "Propriété à",
+    "notAvailable": "N/A"
+  },
+  "VenderImovel": {
+    "hero": {
+      "badge": "Vendre votre propriété",
+      "title": "Demandez une évaluation gratuite de votre propriété",
+      "description": "Notre équipe d'experts est prête à évaluer votre propriété et à vous aider à obtenir la meilleure valeur sur le marché. Remplissez le formulaire et recevez une évaluation professionnelle sans engagement.",
+      "callNow": "Appelez Maintenant"
+    },
+    "form": {
+      "title": "Décrivez votre propriété",
+      "name": "Nom",
+      "namePlaceholder": "Jean Dupont",
+      "phone": "Numéro de téléphone",
+      "phonePlaceholder": "+351 919 766 323",
+      "email": "Email",
+      "emailPlaceholder": "contact@agenciadouro.pt",
+      "location": "Emplacement",
+      "locationPlaceholder": "Porto, Portugal",
+      "propertyType": "Type de propriété",
+      "propertyTypePlaceholder": "Appartement, Maison, Terrain...",
+      "message": "Message supplémentaire",
+      "messagePlaceholder": "Parlez-nous de votre propriété...",
+      "submit": "Demander une évaluation"
+    },
+    "sendingRequest": "Envoi de la demande...",
+    "requestSentSuccess": "Demande envoyée avec succès ! Nous vous contactons bientôt.",
+    "requestSendError": "Erreur lors de l'envoi de la demande. Veuillez réessayer.",
+    "stats": {
+      "badge": "Notre portée",
+      "title": "Un réseau mondial à votre service",
+      "description": "Agência Douro fait partie d'un réseau immobilier d'excellence, garantissant que votre propriété atteigne les bons acheteurs au Portugal et dans le monde.",
+      "reach": {
+        "label": "Portée mondiale",
+        "description": "Présence dans plusieurs pays et continents"
+      },
+      "clients": {
+        "label": "Clients actifs",
+        "description": "Base de clients qualifiés et intéressés"
+      },
+      "locations": {
+        "label": "Emplacements",
+        "description": "Couverture au Portugal et internationale"
+      },
+      "experience": {
+        "label": "Années d'expérience",
+        "description": "Connaissance approfondie du marché"
+      }
+    },
+    "marketing": {
+      "badge": "Comment nous promouvons",
+      "title": "Canaux de promotion de votre propriété",
+      "description": "Nous utilisons une stratégie marketing multicanal pour garantir une exposition maximale de votre propriété aux acheteurs potentiels.",
+      "channels": {
+        "website": {
+          "title": "Site Web",
+          "description": "Promotion sur notre portail immobilier de haute qualité",
+          "stat": "+50 000 visiteurs/mois"
+        },
+        "newsletter": {
+          "title": "Télévision",
+          "description": "Présence sur les principales chaînes de télévision nationales",
+          "stat": "Nous sommes sur Record TV"
+        },
+        "agencies": {
+          "title": "Agences partenaires",
+          "description": "Exposition dans les vitrines et bureaux",
+          "stat": "Réseau de partenaires"
+        },
+        "media": {
+          "title": "Réseaux sociaux",
+          "description": "Promotion sur les principales plateformes numériques",
+          "stat": "Engagement élevé"
+        }
+      }
+    },
+    "whyChooseUs": {
+      "title": "Pourquoi choisir Agência Douro ?",
+      "reason1": "Évaluation professionnelle et rigoureuse de votre propriété basée sur des données de marché à jour et une analyse comparative.",
+      "reason2": "Stratégie marketing personnalisée avec photographie professionnelle, visites virtuelles et promotion sur plusieurs canaux.",
+      "reason3": "Support complet tout au long du processus de vente, de la documentation à la conclusion de l'affaire.",
+      "reason4": "Équipe dédiée de consultants expérimentés avec une connaissance approfondie des marchés locaux et internationaux.",
+      "cta": "En savoir plus sur nous"
+    }
+  },
+  "PropertyDetails": {
+    "back": "Retour",
+    "floor": "Étage",
+    "loading": "Chargement...",
+    "propertyNotFound": "Propriété introuvable",
+    "businessType": "Type de transaction :",
+    "transactionTypes": {
+      "comprar": "À vendre",
+      "arrendar": "Location",
+      "trespasse": "Transfert de fonds de commerce"
+    },
+    "propertyTypes": {
+      "apartamento": "Appartement",
+      "moradia": "Maison",
+      "terreno": "Terrain",
+      "escritório": "Bureau",
+      "loja": "Commerce",
+      "armazém": "Entrepôt",
+      "prédio": "Immeuble",
+      "quinta": "Ferme",
+      "garagem": "Garage",
+      "cave": "Cave"
+    },
+    "linkCopied": "Lien copié dans le presse-papiers !",
+    "errorCopyingLink": "Erreur lors de la copie du lien",
+    "generatingPDF": "Génération de la brochure PDF...",
+    "pdfGenerated": "Brochure générée avec succès !",
+    "errorGeneratingPDF": "Erreur lors de la génération du PDF",
+    "sendingMessage": "Envoi du message...",
+    "messageSent": "Message envoyé avec succès !",
+    "errorSendingMessage": "Erreur lors de l'envoi du message. Veuillez réessayer.",
+    "downloadStarted": "Téléchargement commencé !",
+    "errorDownloadingFile": "Erreur lors du téléchargement du fichier",
+    "contactViaWhatsApp": "CONTACTEZ-NOUS",
+    "expectedDelivery": "Livraison prévue :",
+    "paymentConditions": "Conditions de paiement :",
+    "responsibleBroker": "Agent responsable",
+    "contact": "Contacter",
+    "favorite": "FAVORI",
+    "propertyLink": "Partager",
+    "linkCopiedShort": "Copié !",
+    "shareAd": "Partager l'annonce",
+    "shareByMessage": "Partager par message",
+    "sendViaWhatsApp": "Envoyer par WhatsApp",
+    "copyLink": "Copier le lien",
+    "copy": "Copier",
+    "savePDF": "Enregistrer PDF",
+    "name": "Nom",
+    "phoneNumber": "Numéro de téléphone",
+    "email": "Email",
+    "message": "Message",
+    "namePlaceholder": "Jean Dupont",
+    "phonePlaceholder": "+351 919 766 323",
+    "emailPlaceholder": "contact@agenciadouro.pt",
+    "messagePlaceholder": "Envoyez-nous un message !",
+    "marketingConsent": "J'autorise Agência Douro à conserver ces données",
+    "send": "Envoyer",
+    "totalArea": "Surface totale",
+    "builtArea": "Surface construite",
+    "usefulArea": "Surface utile",
+    "bathrooms": "Salles de bain",
+    "bedrooms": "Chambres",
+    "office": "Bureau",
+    "yes": "Oui",
+    "laundry": "Buanderie",
+    "garage": "Garage",
+    "space": "Place",
+    "spaces": "Places",
+    "constructionYear": "Année de construction",
+    "state": "État",
+    "energyClass": "Classe énergétique",
+    "features": "Finitions et Équipements",
+    "view": "Voir",
+    "files": "Fichiers",
+    "propertyFeatures": "Caractéristiques de la propriété",
+    "featuresDescription": "Caractéristiques et équipements spéciaux de cette propriété",
+    "propertyFiles": "Fichiers de la propriété",
+    "filesDescription": "Documents, plans et autres fichiers associés à cette propriété",
+    "download": "Télécharger",
+    "relatedProperties": "Propriétés similaires",
+    "addedToFavorites": "Ajouté aux favoris",
+    "removedFromFavorites": "Retiré des favoris",
+    "developmentNote": "*Cette annonce est à titre informatif (photos illustratives) et ne dispense pas d'une visite de la propriété ni de la consultation des documents respectifs. Nous mettons à disposition le plan des finitions et les plans de la propriété, n'hésitez pas à les demander.",
+    "whyChooseThisPropertyLabel": "Pourquoi choisir cette propriété ?",
+    "whyChooseThisPropertyTitle": "Pourquoi choisir cette propriété ?",
+    "whyChooseAgencyTitle": "Pourquoi choisir Agência Douro ?",
+    "whyChooseAgencyDescription": "Présente sur les marchés national et international, Agência Douro est reconnue pour sa transparence, sa responsabilité et son engagement à garantir la tranquillité d'esprit dans chaque négociation. Que ce soit pour votre résidence ou un investissement, nous offrons un accompagnement complet pour rendre votre transaction sûre et efficace.",
+    "whyChooseAgencyCTA": "📞 Contactez-nous dès maintenant et planifiez votre visite !",
+    "whyChooseAgencyOpportunity": "Ne manquez pas cette opportunité unique de vivre dans l'un des cadres les plus époustouflants du Portugal. 🌟",
+    "whyChooseAgencyAgentNote": "*Si vous êtes un agent immobilier, chez Agência Douro nous travaillons en régime de partage.",
+    "fractionsTitle": "Fractions",
+    "fractionsDescription": "Unités et fractions disponibles dans ce programme",
+    "fractionsLoading": "Chargement des fractions...",
+    "callNow": "Appelez maintenant",
+    "whatsappGreeting": "Bonjour ! Je suis intéressé(e) par le bien :",
+    "whatsappGreetingAgent": "Bonjour {name} ! Je suis intéressé(e) par le bien :",
+    "whatsappPrice": "Prix",
+    "whatsappReference": "Référence",
+    "whatsappLink": "Lien",
+    "propertyInfoHeader": "--- Informations du bien ---",
+    "propertyInfoType": "Type",
+    "propertyInfoLocation": "Localisation",
+    "propertyInfoPrice": "Prix",
+    "propertyInfoReference": "Référence",
+    "seoNotFound": "Bien introuvable",
+    "seoNotFoundDescription": "Le bien que vous recherchez est introuvable.",
+    "seoBedrooms": "{count} chambres",
+    "seoBathrooms": "{count} salles de bain"
+  },
+  "TermosECondicoes": {
+    "title": "Termes et Conditions",
+    "description": "En accédant au site Agência Douro, vous acceptez de respecter ces conditions de service, toutes les lois et réglementations applicables.",
+    "section1": {
+      "title": "1. Termes",
+      "content": "En accédant au site Agência Douro, vous acceptez de respecter ces conditions de service, toutes les lois et réglementations applicables, et acceptez d'être responsable du respect de toutes les lois locales applicables. Si vous n'acceptez pas l'une de ces conditions, vous êtes interdit d'utiliser ou d'accéder à ce site. Les matériaux contenus dans ce site sont protégés par les lois applicables sur le droit d'auteur et les marques de commerce."
+    },
+    "section2": {
+      "title": "2. Licence d'utilisation",
+      "intro": "L'autorisation est accordée de télécharger temporairement une copie des matériaux (informations ou logiciels) sur le site Agência Douro, uniquement pour une visualisation transitoire personnelle et non commerciale. Il s'agit de l'octroi d'une licence, et non d'un transfert de titre, et sous cette licence, vous ne pouvez pas :",
+      "item1": "modifier ou copier les matériaux ;",
+      "item2": "utiliser les matériaux à des fins commerciales ou pour tout affichage public (commercial ou non commercial) ;",
+      "item3": "tenter de décompiler ou de faire de l'ingénierie inverse de tout logiciel contenu sur le site Agência Douro ;",
+      "item4": "retirer toute notation de droit d'auteur ou autre propriété des matériaux ; ou",
+      "item5": "transférer les matériaux à une autre personne ou 'mettre en miroir' les matériaux sur tout autre serveur.",
+      "conclusion": "Cette licence sera automatiquement résiliée si vous violez l'une de ces restrictions et peut être résiliée par Agência Douro à tout moment. Lors de la résiliation de votre visualisation de ces matériaux ou lors de la résiliation de cette licence, vous devez détruire tous les matériaux téléchargés en votre possession, qu'ils soient en format électronique ou imprimé."
+    },
+    "section3": {
+      "title": "3. Avertissement",
+      "content1": "Les matériaux sur le site Agência Douro sont fournis 'tels quels'. Agência Douro ne fait aucune garantie, expresse ou implicite, et par les présentes, décline et nie toutes les autres garanties, y compris, sans limitation, les garanties implicites ou conditions de commercialisation, d'adéquation à un usage particulier ou de non-violation de la propriété intellectuelle ou autre violation de droits.",
+      "content2": "De plus, Agência Douro ne garantit pas ou ne fait aucune représentation concernant l'exactitude, les résultats probables ou la fiabilité de l'utilisation des matériaux sur son site Web ou autrement liés à ces matériaux ou sur tout site lié à ce site."
+    },
+    "section4": {
+      "title": "4. Limitations",
+      "content": "En aucun cas Agência Douro ou ses fournisseurs ne seront responsables de tout dommage (y compris, sans limitation, les dommages pour perte de données ou de profit, ou en raison d'une interruption des activités) résultant de l'utilisation ou de l'incapacité d'utiliser les matériaux sur Agência Douro, même si Agência Douro ou un représentant autorisé d'Agência Douro a été informé oralement ou par écrit de la possibilité de tels dommages. Parce que certaines juridictions n'autorisent pas les limitations sur les garanties implicites, ou les limitations de responsabilité pour les dommages consécutifs ou accessoires, ces limitations peuvent ne pas s'appliquer à vous."
+    },
+    "section5": {
+      "title": "5. Exactitude des matériaux",
+      "content": "Les matériaux apparaissant sur le site Agência Douro pourraient inclure des erreurs techniques, typographiques ou photographiques. Agência Douro ne garantit pas que tout matériau sur son site Web soit exact, complet ou à jour. Agência Douro peut apporter des modifications aux matériaux contenus sur son site Web à tout moment sans préavis. Cependant, Agência Douro ne s'engage pas à mettre à jour les matériaux."
+    },
+    "section6": {
+      "title": "6. Liens",
+      "content": "Agência Douro n'a pas examiné tous les sites liés à son site Web et n'est pas responsable du contenu de tout site lié. L'inclusion d'un lien n'implique pas l'approbation par Agência Douro du site. L'utilisation de tout site Web lié est aux risques de l'utilisateur."
+    },
+    "section7": {
+      "title": "7. Modifications",
+      "content": "Agência Douro peut réviser ces conditions de service pour son site Web à tout moment sans préavis. En utilisant ce site Web, vous acceptez d'être lié par la version actuelle de ces conditions de service."
+    },
+    "section8": {
+      "title": "8. Loi applicable",
+      "content": "Ces termes et conditions sont régis et interprétés conformément aux lois d'Agência Douro et vous vous soumettez irrévocablement à la juridiction exclusive des tribunaux dans cet état ou cette localité."
+    }
+  }
+}

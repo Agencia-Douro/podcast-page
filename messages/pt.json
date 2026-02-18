@@ -1,0 +1,718 @@
+{
+  "PropertyTypes": {
+    "moradia": "Moradia",
+    "apartamento": "Apartamento",
+    "casa": "Casa",
+    "terreno": "Terreno",
+    "escritorio": "Escritório",
+    "comercial": "Comercial",
+    "industrial": "Industrial",
+    "armazem": "Armazém",
+    "loja": "Loja",
+    "garagem": "Garagem",
+    "quinta": "Quinta",
+    "terreno_urbano": "Terreno Urbano",
+    "terreno_rustico": "Terreno Rústico"
+  },
+  "Hero": {
+    "title": "A imobiliária mais exclusiva de Portugal.",
+    "description": "Descubra imóveis exclusivos em Portugal com a nossa imobiliária especializada.",
+    "buy": "Comprar",
+    "rent": "Arrendar",
+    "developments": "Empreendimentos",
+    "businessTransfer": "Trespasse",
+    "location": "Localização",
+    "type": "Tipo",
+    "typology": "Tipologia",
+    "select": "Selecione",
+    "search": "Pesquisar",
+    "searchPlaceholder": "Alugar t3 no porto",
+    "noResults": "Nenhum resultado encontrado",
+    "searchButton": "Encontrar"
+  },
+  "ZonasMaisDesejadas": {
+    "title": "As zonas mais desejadas",
+    "description": "Descubra as regiões que atraem quem busca exclusividade, conforto e um estilo de vida sem igual.",
+    "imageAlt": "Imagem de {nome}",
+    "viewAll": "Ver Todos",
+    "noZones": "Nenhuma zona disponível para este país"
+  },
+  "Testemunhos": {
+    "title": "O que dizem os nossos clientes",
+    "description": "Cada chave carrega uma história, cada lar acolhe um sonho, estas são as vozes de quem encontrou o seu lugar perfeito.",
+    "satisfiedClients": "clientes satisfeitos",
+    "viewMore": "Ver mais",
+    "imageAlt": "testemunho-image",
+    "noTestimonials": "Nenhum depoimento disponível no momento",
+    "testimonial1": {
+      "text": "A Vânia é maravilhosa, conhece super bem o mercado onde atua e auxilia desde a procura do imóvel até os detalhes finais. Super importante ter uma pessoa de confiança e sempre disposta a ajudar. Recomendamos 100%!",
+      "name": "Lucimara Bordignon Borghetti"
+    },
+    "testimonial2": {
+      "text": "Agência Douro fez toda diferença na venda da minha morada. A Venda aconteceu super rápido. A Vânia Fernandes, proprietária da Agência super simpática e competente, esteve sempre pronta para atender as minhas dúvidas. Recomendo sempre.",
+      "name": "Maria Oliveira"
+    },
+    "testimonial3": {
+      "text": "Ótimo atendimento diferenciado de todas as imobiliárias que conheci no Porto,Ética ,comprometimento, conhecer a empresa,para mim foi um presente do céu. Parabéns Agência Douro. Parabéns empresária Vânia Fernandes !",
+      "name": "Walter Martins"
+    }
+  },
+  "FaleConnosco": {
+    "title": "Fale connosco",
+    "subject": "Assunto",
+    "subjectPlaceholder": "Selecione o motivo do contacto",
+    "subjectOptionGeneral": "Geral",
+    "subjectOptionPodcastParticipate": "Participar no podcast",
+    "subjectOptionPodcastSuggest": "Podcast – sugerir tema",
+    "subjectOptionPodcastQuestion": "Podcast – dúvida ou questão",
+    "subjectOptionPropertyBuy": "Imóveis – compra",
+    "subjectOptionPropertySell": "Imóveis – venda",
+    "sendingMessage": "Enviando mensagem...",
+    "messageSentSuccess": "Mensagem enviada com sucesso!",
+    "messageSendError": "Erro ao enviar mensagem. Tente novamente.",
+    "name": "Nome",
+    "namePlaceholder": "Tomas Ribeiro Silva",
+    "phoneNumber": "Número de Telemóvel",
+    "phonePlaceholder": "+351 919 766 323",
+    "email": "Email",
+    "emailPlaceholder": "contacto@agenciadouro.pt",
+    "message": "Mensagem",
+    "messagePlaceholder": "Envie-nos uma mensagem!",
+    "marketingConsent": "Autorizo a Agência Douro a conservar estes dados",
+    "send": "Enviar",
+    "emailDescription": "Envie-nos a sua dúvida ou questão para o nosso email.",
+    "contact": "Contacto",
+    "contactDescription": "Pode também falar connosco através do telefone.",
+    "socialMedia": "Redes Sociais",
+    "socialMediaDescription": "Somos bastante ativos nas redes, siga-nos!",
+    "address": "Morada",
+    "addressDescription": "Venha fazer-nos uma visita, ficamos por cá à sua espera."
+  },
+  "Footer": {
+    "home": "Início",
+    "properties": "Imóveis",
+    "aboutUs": "Sobre Nós",
+    "contact": "Contacto",
+    "newsletter": "Newsletter",
+    "podcast": "Podcast",
+    "buy": "Comprar",
+    "rent": "Arrendar",
+    "developments": "Empreendimentos",
+    "luxuryProperties": "Imóveis de luxo",
+    "copyright": "© Agência Douro. AMI 17 632",
+    "termsAndConditions": "Termos e condições",
+    "complaintsBook": "Livro Reclamações Online"
+  },
+  "Newsletter": {
+    "title": "Newsletter",
+    "description": "Fique por dentro das últimas novidades do mercado imobiliário",
+    "loading": "A carregar newsletters...",
+    "error": "Erro ao carregar newsletters.",
+    "noNewsletters": "Nenhuma newsletter disponível.",
+    "all": "Todas",
+    "categories": {
+      "market": "Mercado",
+      "tips": "Dicas",
+      "news": "Notícias"
+    },
+    "noNewslettersInCategory": "Nenhuma newsletter encontrada nesta categoria."
+  },
+  "NewsletterDetails": {
+    "loading": "A carregar newsletter...",
+    "notFound": "Newsletter não encontrada",
+    "backToNewsletters": "← Voltar para newsletters",
+    "newsletter": "Newsletter",
+    "readingTime": "min de leitura",
+    "logoAlt": "Agência Douro Logótipo",
+    "relatedProperties": "Imóveis Relacionados",
+    "categories": {
+      "market": "Mercado",
+      "tips": "Dicas",
+      "news": "Notícias"
+    }
+  },
+  "SobreNos": {
+    "whoWeAre": "Quem Somos",
+    "title": "Sobre Nós",
+    "subtitle": "Especialistas em Imóveis de Luxo em Portugal",
+    "description1": "Na Agência Douro, a nossa missão é transformar sonhos em realidade, sempre com um compromisso inabalável com a transparência e a responsabilidade. A nossa equipa é composta por profissionais altamente qualificados, prontos para o ajudar a realizar o sonho da sua vida.",
+    "description2": "A atuar no mercado nacional e internacional, a Agência Douro é reconhecida pela sua transparência, responsabilidade e compromisso em proporcionar tranquilidade em cada transação. Seja para habitação própria ou para investimento, oferecemos um apoio completo para garantir que o seu negócio seja seguro e eficaz.",
+    "yearsExperience": "Anos de Experiência",
+    "propertiesSold": "Imóveis Vendidos",
+    "satisfiedClients": "Clientes Satisfeitos",
+    "eurosInTransactions": "Euros em Transações",
+    "instagramFollowers": "Seguidores no Instagram",
+    "ourIdentity": "Nossa Identidade",
+    "legal": "(chamada para rede móvel nacional)",
+    "ourCulture": "A Nossa Cultura",
+    "culture": {
+      "excellence": {
+        "title": "Excelência",
+        "description": "Acreditamos na excelência como padrão, na transparência como base de confiança e na integridade como princípio inegociável."
+      },
+      "dedication": {
+        "title": "Dedicação",
+        "description": "Valorizamos o atendimento personalizado e dedicado, reconhecendo que cada cliente tem necessidades únicas."
+      },
+      "innovation": {
+        "title": "Inovação",
+        "description": "A inovação e a adaptação às necessidades do mercado são pilares da nossa cultura, permitindo-nos oferecer sempre o melhor serviço possível."
+      }
+    },
+    "whatWeOffer": "O Que Oferecemos",
+    "ourServices": "Os Nossos Serviços",
+    "contact": "Ligue agora",
+    "services": {
+      "legalConsulting": {
+        "title": "Consultoria Jurídica",
+        "description": "Garantimos que todas as transações imobiliárias sejam realizadas de forma segura e conforme a legislação vigente."
+      },
+      "mortgageConsulting": {
+        "title": "Consultoria para Crédito Imobiliário",
+        "description": "Ajudamos você a encontrar as melhores opções de financiamento, adequadas às suas necessidades e perfil financeiro."
+      },
+      "realEstatePromotion": {
+        "title": "Promoção Imobiliária",
+        "description": "Desenvolvemos estratégias de marketing personalizadas para maximizar a visibilidade e valorização do seu imóvel no mercado."
+      },
+      "projectManagement": {
+        "title": "Gestão de projetos imobiliários",
+        "description": "Acompanhamos e coordenamos todas as fases do seu projeto imobiliário, desde o planeamento até à entrega final."
+      },
+      "realEstateInvestments": {
+        "title": "Investimentos imobiliários",
+        "description": "Identificamos as melhores oportunidades de investimento imobiliário, com análises de mercado rigorosas e retorno otimizado."
+      },
+      "goldenVisa": {
+        "title": "Visto Gold",
+        "description": "Orientamos investidores internacionais em todo o processo de obtenção do Visto Gold através de investimento imobiliário em Portugal."
+      },
+      "mortgagePartners": {
+        "title": "Parceiros de crédito imobiliário",
+        "description": "Trabalhamos com uma rede de parceiros bancários de confiança para garantir as melhores condições de financiamento para si."
+      }
+    },
+    "meetOurTeam": "Conheça a Nossa Equipa",
+    "ourTeam": "A Nossa Equipa",
+    "teamDescription": "A nossa equipa é composta por profissionais altamente qualificados e experientes, dedicados a proporcionar o melhor serviço e a transformar os seus sonhos em realidade.",
+    "viewMore": "Ver mais",
+    "viewLess": "Ver menos",
+    "loading": "A carregar...",
+    "loadingCulture": "A carregar itens de cultura...",
+    "loadingServices": "A carregar serviços..."
+  },
+  "Podcast": {
+    "exclusiveContent": "Conteúdo Exclusivo",
+    "title": "Podcast Norte Imobiliário e Business",
+    "subtitle": "Conversas sobre o Mercado Imobiliário de Luxo em Portugal",
+    "description": "Um podcast dedicado a discutir tendências, desafios e oportunidades do mercado imobiliário de luxo em Portugal, com a participação de especialistas e profissionais do setor. O Podcast Norte Imobiliário e Business oferece insights práticos e conteúdos inspiradores para investidores, corretores e interessados no mercado imobiliário e nos negócios, sendo uma fonte confiável de informação sobre o setor português.",
+    "heroIntro": "Conversas sobre o mercado imobiliário no Norte de Portugal — experiência real, decisões no terreno e contacto direto com investidores, empresários e profissionais do setor.",
+    "aboutLabel": "O podcast",
+    "aboutTitle": "Sobre o podcast",
+    "aboutIntro": "O Norte Imobiliário & Business é um espaço de conversa sobre o mercado imobiliário no Norte de Portugal, construído a partir de experiência real, decisões no terreno e contacto direto com investidores, empresários e profissionais do setor.",
+    "aboutOrigin": "Aqui falam-se temas que importam: mercado, investimento, desenvolvimento, oportunidades e riscos. Com clareza, linguagem direta e foco em quem precisa decidir melhor — não em vender narrativas.",
+    "aboutIntention": "Cada episódio é uma conversa à mesa. Um tema de cada vez, o tempo necessário para aprofundar e participantes que acrescentam visão, percurso e conteúdo relevante.",
+    "aboutPresentation": "Este podcast existe para quem quer compreender melhor o mercado, acompanhar tendências e, quando faz sentido, sentar-se à mesa para contribuir com a sua perspetiva.",
+    "guestsLabel": "Convidados",
+    "guestsTitle": "Quem passa pelo podcast",
+    "guestsDescription": "Os episódios contam com especialistas e profissionais do setor: advogados, consultores de crédito, investidores e outros agentes do mercado imobiliário e dos negócios. São vozes com experiência prática, que trazem casos reais e perspetivas que ajudam a entender o que está a acontecer no Norte de Portugal.",
+    "guestsList": [
+      { "name": "Convidado 1", "role": "Advogado" },
+      { "name": "Convidado 2", "role": "Consultor de crédito" },
+      { "name": "Convidado 3", "role": "Investidor" },
+      { "name": "Convidado 4", "role": "Agente imobiliário" }
+    ],
+    "sponsorImageAlt": "Patrocinador",
+    "sponsorText": "O nosso patrocinador apoia conversas de qualidade sobre imobiliário e negócios no Norte de Portugal.",
+    "whyListenLabel": "Razões",
+    "whyListenTitle": "Por que nos ouvir",
+    "whyListenSubtitle": "Conteúdo pensado para quem quer estar a par do mercado e tomar decisões informadas.",
+    "whyListenCards": [
+      { "iconKey": "mic", "title": "Conversas em profundidade", "subtext": "Tempo para explorar cada tema com clareza e sem pressas." },
+      { "iconKey": "trendingUp", "title": "Tendências do mercado", "subtext": "Análise prática do que está a acontecer no Norte de Portugal." },
+      { "iconKey": "building", "title": "Foco no território", "subtext": "Conhecimento de quem está no terreno há anos." },
+      { "iconKey": "users", "title": "Vozes diversas", "subtext": "Advogados, consultores, investidores e agentes do setor." },
+      { "iconKey": "scale", "title": "Informação útil", "subtext": "Conteúdo que ajuda em decisões de compra, venda ou investimento." },
+      { "iconKey": "fileText", "title": "Temas práticos", "subtext": "Episódios que acrescentam valor ao seu dia a dia." }
+    ],
+    "heroCtaSpotify": "Ouvir no Spotify",
+    "heroCtaYouTube": "Ver no YouTube",
+    "heroCtaContact": "Falar com o podcast",
+    "institutionalLabel": "Posicionamento",
+    "institutionalTitle": "Um ativo institucional da Agência Douro",
+    "institutionalBody": "O podcast não é uma campanha. É um ativo institucional da Agência Douro. Nasce da experiência real da equipa no mercado imobiliário do Norte de Portugal e reflete o compromisso da casa em partilhar conhecimento, liderar o debate e servir quem investe, compra ou vende com critério.",
+    "ctaFinalLabel": "Próximo passo",
+    "ctaFinalTitle": "Este espaço é para quem tem algo a dizer.",
+    "ctaFinalDescription": "Se faz sentido sentar à mesa e partilhar visão, este é o canal para apresentar a sua proposta de participação no podcast. Selecionamos temas, histórias e convidados que elevam a conversa.",
+    "ctaFinalButton": "APRESENTAR PROPOSTA DE PARTICIPAÇÃO",
+    "ctaFinalMailSubject": "Proposta de participação no podcast",
+    "ctaFinalHint": "",
+    "testimonialsLabel": "Testemunhos",
+    "testimonialsTitle": "O Que Nossos Ouvintes Dizem",
+    "testimonialsSubtitle": "Descubra por que profissionais em todo Portugal sintonizam o Podcast Norte Imobiliário & Business para insights do setor.",
+    "testimonialsPrevAria": "Testemunho anterior",
+    "testimonialsNextAria": "Testemunho seguinte",
+    "testimonialsList": [
+      { "name": "Joana S.", "role": "Investidora, Porto", "text": "Um podcast essencial para quem quer estar a par das tendências do imobiliário. Conteúdo de alta qualidade e convidados de topo." },
+      { "name": "Miguel R.", "role": "Consultor, Braga", "text": "As conversas trazem perspetivas que não encontro noutro lado. Recomendo a qualquer profissional do setor." },
+      { "name": "Carla M.", "role": "Agente imobiliária, Gaia", "text": "Ouço todos os episódios. O nível dos convidados e dos temas reflete o que realmente importa no mercado." }
+    ],
+    "ctaFinalSuggestTopic": "Sugerir tema para o podcast",
+    "ctaFinalNewsletter": "Receber avisos dos próximos episódios",
+    "episodes": "Episódios",
+    "seasons": "Temporadas",
+    "guests": "Convidados",
+    "themesAndInsights": "Temas & Insights",
+    "whatWeCover": "O Que Abordamos",
+    "topics": {
+      "marketTrends": {
+        "title": "Tendências de Mercado",
+        "description": "Análises profundas sobre as tendências atuais do mercado imobiliário de luxo em Portugal e oportunidades de investimento."
+      },
+      "investmentTips": {
+        "title": "Dicas de Investimento",
+        "description": "Conselhos práticos sobre como investir em imóveis de luxo, desde a escolha da localização até estratégias de valorização."
+      },
+      "internationalVision": {
+        "title": "Visão Internacional",
+        "description": "Perspetivas sobre investidores estrangeiros em Portugal e comparações com outros mercados internacionais."
+      }
+    },
+    "logoAlt": "logo podcast",
+    "watchNow": "Assista Agora",
+    "featuredEpisodes": "Episódios em Destaque",
+    "episodesDescription": "Confira os nossos episódios mais assistidos e fique por dentro das conversas que estão a transformar o mercado imobiliário de luxo.",
+    "episode": "Episódio",
+    "apresentadora": {
+      "label": "Apresentação",
+      "credential": "Consultora imobiliária, AMI 17 632",
+      "paragraph1": "Vânia Fernandes atua no mercado imobiliário do Norte de Portugal com foco em decisão, estratégia e leitura de mercado. Com mais de 15 anos de experiência em imóveis residenciais e comerciais, construiu o seu percurso no terreno, acompanhando ciclos, investidores, empresários e operações de elevada complexidade.",
+      "paragraph2": "No podcast, assume o papel de condutora da conversa — questiona, aprofunda e traz contexto para temas que influenciam diretamente quem compra, vende, investe ou desenvolve projetos imobiliários.",
+      "paragraph3": "A sua abordagem é clara: menos discurso, mais substância. O objetivo é criar conversas que informem melhor e elevem a qualidade das decisões no imobiliário.",
+      "quote": "Queremos que quem nos ouve tenha mais contexto, mais critério e mais segurança nas decisões que toma.",
+      "linkedInLabel": "LinkedIn",
+      "linkedInUrl": "https://www.linkedin.com/in/vaniamfernandes",
+      "stats": {
+        "anosExperiencia": "Anos de Experiência",
+        "eurosTransacoes": "Euros em Transações",
+        "clientesSatisfeitos": "Clientes Satisfeitos",
+        "episodiosGravados": "Episódios Gravados"
+      },
+      "imageAlt": "Vânia Fernandes - Consultora Imobiliária & Host"
+    },
+    "diretorProducao": {
+      "label": "Direção de Produção",
+      "name": "Diretor de Produção",
+      "credential": "Produtor audiovisual & Estrategista de conteúdo",
+      "paragraph1": "Com mais de 10 anos de experiência em produção audiovisual e comunicação digital, é responsável por toda a direção criativa e técnica do podcast. Da pré-produção à pós-produção, garante que cada episódio mantém o padrão de qualidade que o projeto exige.",
+      "paragraph2": "O seu trabalho vai além da captação de som e imagem — envolve pesquisa de temas, preparação de conteúdos, coordenação de convidados e a construção de uma narrativa que torne cada conversa relevante e envolvente para quem ouve.",
+      "paragraph3": "Acredita que um bom podcast nasce da combinação entre conteúdo de valor e uma execução técnica impecável. Cada detalhe conta: do enquadramento à edição final, tudo é pensado para oferecer a melhor experiência ao ouvinte.",
+      "quote": "O nosso objetivo é que cada episódio seja uma referência — em conteúdo e em qualidade de produção.",
+      "linkedInLabel": "LinkedIn",
+      "linkedInUrl": "https://www.linkedin.com/",
+      "imageAlt": "Diretor de Produção do Podcast"
+    },
+    "whereToFindUs": "Onde Nos Encontrar",
+    "whereToFindUsTitle": "Ouça nas Suas Plataformas Favoritas",
+    "whereToFindUsDescription": "Siga-nos nas principais plataformas de streaming para nunca perder um episódio. Disponível onde quer que esteja.",
+    "galleryLabel": "Galeria",
+    "galleryTitle": "O Nosso Estúdio",
+    "galleryDescription": "Gravado num estúdio profissional no centro de Matosinhos no Porto, garantimos a máxima qualidade de áudio e vídeo em todos os episódios. Um ambiente pensado para conversas inspiradoras e produtivas.",
+    "galleryOpenAria": "Ver imagem em tamanho maior",
+    "galleryCloseAria": "Fechar",
+    "galleryImageAlt": "Estúdio do podcast",
+    "closeVideo": "Fechar vídeo",
+    "videoNotSupported": "O seu navegador não suporta a reprodução de vídeos.",
+    "playVideo": "Reproduzir vídeo"
+  },
+  "Sidebar": {
+    "buy": "Comprar",
+    "businessTransfer": "Trespasse",
+    "developments": "Empreendimentos",
+    "propertyType": "Tipo de Imóvel",
+    "selectPropertyType": "Selecione o tipo de imóvel",
+    "bedroomsAndBathrooms": "Quartos e Casas de banho",
+    "bedrooms": "Quartos",
+    "bathrooms": "Casas de banho",
+    "priceAndArea": "Preço e Área útil",
+    "minPrice": "Preço mínimo",
+    "maxPrice": "Preço máximo",
+    "minUsefulArea": "Área útil mínima",
+    "maxUsefulArea": "Área útil máxima",
+    "minimum": "Mínimo",
+    "maximum": "Máximo",
+    "location": "Localização",
+    "country": "País",
+    "selectCountry": "Selecione o país",
+    "district": "Distrito",
+    "selectDistrict": "Selecione o distrito",
+    "municipality": "Concelho",
+    "selectDistrictFirst": "Selecione primeiro um distrito",
+    "selectMunicipality": "Selecione o concelho",
+    "region": "Região",
+    "enterRegion": "Digite a região",
+    "city": "Cidade",
+    "enterCity": "Digite a cidade",
+    "other": "Outro",
+    "propertyState": "Estado do imóvel",
+    "energyClass": "Classe energética",
+    "rent": "Arrendar",
+    "favorites": "Favoritos",
+    "search": "Pesquisar",
+    "clear": "Limpar",
+    "propertyStates": {
+      "new": "Novo",
+      "used": "Usado",
+      "renovated": "Renovado",
+      "underConstruction": "Em Construção"
+    }
+  },
+  "Imoveis": {
+    "filter": "Filtrar",
+    "of": "de",
+    "properties": "imóveis",
+    "sortBy": "Ordenar por:",
+    "loading": "A carregar imóveis",
+    "error": "Erro ao carregar imóveis",
+    "noResults": "Nenhum correspondência.",
+    "noResultsDescription": "Não encontramos nenhum imóvel com os padrões da sua pesquisa.",
+    "loadingSuspense": "A carregar...",
+    "sortOptions": {
+      "mostRecent": "Mais recentes",
+      "oldest": "Mais antigos",
+      "lowestPrice": "Menor preço",
+      "highestPrice": "Maior preço"
+    },
+    "seoTitle": "Imóveis para Comprar e Arrendar em Portugal",
+    "luxuryTitle": "Imóveis de Luxo em Portugal"
+  },
+  "AvaliadorOnline": {
+    "button": {
+      "mobile": "AVALIADOR",
+      "desktop": {
+        "line1": "AVALIADOR",
+        "line2": "ONLINE"
+      }
+    },
+    "title": "Avaliador Online",
+    "subtitle": "Preencha o formulário abaixo para receber uma avaliação do seu imóvel",
+    "personalData": {
+      "title": "Dados Pessoais",
+      "name": "Nome",
+      "phone": "Número de Telemóvel",
+      "email": "Email",
+      "namePlaceholder": "Tomas Ribeiro Silva",
+      "phonePlaceholder": "+351 919 766 323",
+      "emailPlaceholder": "contacto@agenciadouro.pt"
+    },
+    "propertyData": {
+      "title": "Dados do Imóvel",
+      "type": "Tipo de Imóvel",
+      "purpose": "Finalidade",
+      "typology": "Tipologia",
+      "observations": "Observações Adicionais",
+      "observationsPlaceholder": "Informações adicionais sobre o imóvel...",
+      "selectType": "Selecione o tipo",
+      "select": "Selecione",
+      "purposeOptions": {
+        "sale": "Venda",
+        "rent": "Arrendar"
+      }
+    },
+    "marketingConsent": "Autorizo a Agência Douro a conservar estes dados",
+    "submitButton": "Solicitar Avaliação",
+    "toast": {
+      "sending": "Enviando avaliação...",
+      "success": "Avaliação enviada com sucesso!",
+      "error": "Erro ao enviar avaliação. Tente novamente."
+    },
+    "emailMessage": {
+      "title": "=== PEDIDO DE AVALIAÇÃO DE IMÓVEL ===",
+      "type": "TIPO DE IMÓVEL",
+      "purpose": "FINALIDADE",
+      "typology": "TIPOLOGIA",
+      "observations": "OBSERVAÇÕES"
+    }
+  },
+  "NotFound": {
+    "title": "Página não encontrada",
+    "description": "A página que procura não existe ou foi movida. Verifique o endereço ou use os links abaixo.",
+    "backHome": "Voltar ao início",
+    "viewProperties": "Ver imóveis",
+    "exploreSite": "Explore o site"
+  },
+  "Header": {
+    "home": "Início",
+    "properties": "Imóveis",
+    "buy": "Comprar",
+    "rent": "Arrendar",
+    "avaliar": "Avaliador Online",
+    "developments": "Empreendimentos",
+    "businessTransfer": "Trespasse",
+    "luxuryProperties": "Imóveis de luxo",
+    "whoWeAre": "Quem Somos",
+    "aboutUs": "Sobre Nós",
+    "podcast": "Podcast",
+    "newsletter": "Newsletter",
+    "contact": "Ligue Agora",
+    "institutional": "Institucional",
+    "logoAlt": "Agência Douro Logótipo",
+    "sellMyProperty": "Vender meu imóvel"
+  },
+  "ImoveisDestacados": {
+    "title": "Imóveis Destacados",
+    "description": "Uma seleção criteriosa de imóveis que representam o mais elevado padrão de qualidade, arquitetura e localização, pensada para atender aos clientes mais exigentes.",
+    "viewAll": "Ver tudo",
+    "viewAllMobile": "Ver Todos",
+    "loading": "A carregar imóveis destacados...",
+    "error": "Erro ao carregar imóveis destacados. Tente novamente mais tarde.",
+    "noProperties": "Nenhum imóvel destacado disponível no momento.",
+    "area": "área",
+    "contact": "Ligue agora",
+    "bathroom": "casa de banho",
+    "bathrooms": "casas de banho",
+    "bedroom": "quarto",
+    "bedrooms": "quartos",
+    "garageSpace": "lugar garagem",
+    "garageSpaces": "lugares garagem",
+    "development": "Empreendimento",
+    "viewFullPage": "Ver página completa",
+    "propertyIn": "Imóvel em",
+    "notAvailable": "N/A"
+  },
+  "VenderImovel": {
+    "hero": {
+      "badge": "Vender o seu imóvel",
+      "title": "Solicite uma avaliação gratuita do seu imóvel",
+      "description": "A nossa equipa de especialistas está pronta para avaliar o seu imóvel e ajudá-lo a obter o melhor valor no mercado. Preencha o formulário e receba uma avaliação profissional sem compromisso.",
+      "callNow": "Ligue Agora"
+    },
+    "form": {
+      "title": "Descreva o seu imóvel",
+      "name": "Nome",
+      "namePlaceholder": "Tomas Ribeiro Silva",
+      "phone": "Número de Telemóvel",
+      "phonePlaceholder": "+351 919 766 323",
+      "email": "Email",
+      "emailPlaceholder": "contacto@agenciadouro.pt",
+      "location": "Localização",
+      "locationPlaceholder": "Porto, Portugal",
+      "propertyType": "Tipo de Imóvel",
+      "propertyTypePlaceholder": "Apartamento, Moradia, Terreno...",
+      "message": "Mensagem Adicional",
+      "messagePlaceholder": "Conte-nos mais sobre o seu imóvel...",
+      "submit": "Solicitar Avaliação"
+    },
+    "sendingRequest": "A enviar pedido...",
+    "requestSentSuccess": "Pedido enviado com sucesso! Entraremos em contacto em breve.",
+    "requestSendError": "Erro ao enviar pedido. Tente novamente.",
+    "stats": {
+      "badge": "O nosso alcance",
+      "title": "Uma rede global ao seu serviço",
+      "description": "A Agência Douro faz parte de uma rede imobiliária de excelência, garantindo que o seu imóvel chegue aos compradores certos em Portugal e no mundo.",
+      "reach": {
+        "label": "Alcance Global",
+        "description": "Presença em múltiplos países e continentes"
+      },
+      "clients": {
+        "label": "Clientes Ativos",
+        "description": "Base de clientes qualificados e interessados"
+      },
+      "locations": {
+        "label": "Localizações",
+        "description": "Cobertura em Portugal e internacional"
+      },
+      "experience": {
+        "label": "Anos de Experiência",
+        "description": "Conhecimento profundo do mercado"
+      }
+    },
+    "marketing": {
+      "badge": "Como promovemos",
+      "title": "Canais de promoção do seu imóvel",
+      "description": "Utilizamos uma estratégia de marketing multicanal para garantir a máxima exposição do seu imóvel aos potenciais compradores.",
+      "channels": {
+        "website": {
+          "title": "Website",
+          "description": "Divulgação no nosso portal imobiliário de alta qualidade",
+          "stat": "+50.000 visitantes/mês"
+        },
+        "newsletter": {
+          "title": "Televisão",
+          "description": "Presença nos principais canais de televisão nacionais",
+          "stat": "Estamos na Record"
+        },
+        "agencies": {
+          "title": "Agências Parceiras",
+          "description": "Exposição em vitrinas e escritórios",
+          "stat": "Rede de parceiros"
+        },
+        "media": {
+          "title": "Redes Sociais",
+          "description": "Divulgação nas principais plataformas digitais",
+          "stat": "Alto engagement"
+        }
+      }
+    },
+    "whyChooseUs": {
+      "title": "Porque escolher a Agência Douro?",
+      "reason1": "Avaliação profissional e rigorosa do seu imóvel com base em dados de mercado atualizados e análise comparativa.",
+      "reason2": "Estratégia de marketing personalizada com fotografia profissional, tours virtuais e divulgação em múltiplos canais.",
+      "reason3": "Acompanhamento completo em todo o processo de venda, desde a documentação até ao fecho do negócio.",
+      "reason4": "Equipa dedicada de consultores experientes que conhecem profundamente o mercado local e internacional.",
+      "cta": "Saber mais sobre nós"
+    }
+  },
+  "PropertyDetails": {
+    "back": "Voltar",
+    "floor": "Andar",
+    "loading": "A carregar...",
+    "propertyNotFound": "Imóvel não encontrado",
+    "businessType": "Tipo de negócio:",
+    "transactionTypes": {
+      "comprar": "A venda",
+      "arrendar": "Arrendamento",
+      "trespasse": "Trespasse"
+    },
+    "propertyTypes": {
+      "apartamento": "Apartamento",
+      "moradia": "Moradia",
+      "terreno": "Terreno",
+      "escritório": "Escritório",
+      "loja": "Loja",
+      "armazém": "Armazém",
+      "prédio": "Prédio",
+      "quinta": "Quinta",
+      "garagem": "Garagem",
+      "cave": "Cave"
+    },
+    "linkCopied": "Link copiado para a área de transferência!",
+    "errorCopyingLink": "Erro ao copiar link",
+    "generatingPDF": "A gerar brochura em PDF...",
+    "pdfGenerated": "Brochura gerada com sucesso!",
+    "errorGeneratingPDF": "Erro ao gerar PDF",
+    "sendingMessage": "Enviando mensagem...",
+    "messageSent": "Mensagem enviada com sucesso!",
+    "errorSendingMessage": "Erro ao enviar mensagem. Tente novamente.",
+    "downloadStarted": "Download iniciado!",
+    "errorDownloadingFile": "Erro ao fazer download do arquivo",
+    "contactViaWhatsApp": "FALE CONNOSCO",
+    "expectedDelivery": "Previsão de entrega:",
+    "paymentConditions": "Condições de Pagamento:",
+    "responsibleBroker": "Corretor Responsável",
+    "contact": "Contactar",
+    "favorite": "FAVORITO",
+    "propertyLink": "Partilhar",
+    "linkCopiedShort": "Copiado!",
+    "shareAd": "Partilhar anúncio",
+    "shareByMessage": "Partilhar por mensagem",
+    "sendViaWhatsApp": "Enviar por Whatsapp",
+    "copyLink": "Copiar link",
+    "copy": "Copiar",
+    "savePDF": "Guardar PDF",
+    "name": "Nome",
+    "phoneNumber": "Número de Telemóvel",
+    "email": "Email",
+    "message": "Mensagem",
+    "namePlaceholder": "Tomas Ribeiro Silva",
+    "phonePlaceholder": "+351 919 766 323",
+    "emailPlaceholder": "contacto@agenciadouro.pt",
+    "messagePlaceholder": "Envie-nos uma mensagem!",
+    "marketingConsent": "Autorizo a Agência Douro a conservar estes dados",
+    "send": "Enviar",
+    "totalArea": "Área Total",
+    "builtArea": "Área Construída",
+    "usefulArea": "Área Útil",
+    "bathrooms": "Casas de Banho",
+    "bedrooms": "Quartos",
+    "office": "Escritório",
+    "yes": "Sim",
+    "laundry": "Lavandaria",
+    "garage": "Garagem",
+    "space": "Lugar",
+    "spaces": "Lugares",
+    "constructionYear": "Ano de construção",
+    "state": "Estado",
+    "energyClass": "Classe Energética",
+    "features": "Acabamentos e Equipamentos",
+    "view": "Ver",
+    "files": "Ficheiros",
+    "propertyFeatures": "Características do Imóvel",
+    "featuresDescription": "Características e comodidades especiais deste imóvel",
+    "propertyFiles": "Ficheiros do Imóvel",
+    "filesDescription": "Documentos, plantas e outros ficheiros relacionados a este imóvel",
+    "download": "Download",
+    "relatedProperties": "Imóveis Relacionados",
+    "addedToFavorites": "Adicionado aos favoritos",
+    "removedFromFavorites": "Removido dos favoritos",
+    "developmentNote": "*O presente anúncio tem caráter informativo (fotos ilustrativas) e não dispensa a visita ao imóvel nem a consulta dos respetivos documentos. Nós disponibilizamos, mapa de acabamentos, plantas baixas do imóvel, não hesite em solicitar.",
+    "whyChooseThisPropertyLabel": "Porque escolher esse imóvel?",
+    "whyChooseThisPropertyTitle": "Porque escolher esse imóvel?",
+    "whyChooseAgencyTitle": "Por que escolher a Agência Douro?",
+    "whyChooseAgencyDescription": "Com atuação no mercado nacional e internacional, a Agência Douro é reconhecida por sua transparência, responsabilidade e compromisso em proporcionar tranquilidade em cada negociação. Seja para habitação própria ou investimento, oferecemos suporte completo para tornar o seu negócio seguro e eficaz.",
+    "whyChooseAgencyCTA": "📞 Entre em contato agora mesmo e agende a sua visita!",
+    "whyChooseAgencyOpportunity": "Não perca esta oportunidade única de viver em um dos cenários mais deslumbrantes de Portugal. 🌟",
+    "whyChooseAgencyAgentNote": "*Se você é um agente imobiliário, na Agência Douro trabalhamos em regime de partilha.",
+    "fractionsTitle": "Frações",
+    "fractionsDescription": "Unidades e frações disponíveis neste empreendimento",
+    "fractionsLoading": "A carregar frações...",
+    "callNow": "Ligue agora",
+    "whatsappGreeting": "Olá! Tenho interesse no imóvel:",
+    "whatsappGreetingAgent": "Olá {name}! Tenho interesse no imóvel:",
+    "whatsappPrice": "Preço",
+    "whatsappReference": "Referência",
+    "whatsappLink": "Link",
+    "propertyInfoHeader": "--- Informações do Imóvel ---",
+    "propertyInfoType": "Tipo",
+    "propertyInfoLocation": "Localização",
+    "propertyInfoPrice": "Preço",
+    "propertyInfoReference": "Referência",
+    "seoNotFound": "Imóvel não encontrado",
+    "seoNotFoundDescription": "O imóvel que procura não foi encontrado.",
+    "seoBedrooms": "{count} quartos",
+    "seoBathrooms": "{count} casas de banho"
+  },
+  "TermosECondicoes": {
+    "title": "Termos e Condições",
+    "description": "Ao acessar ao site Agência Douro, concorda em cumprir estes termos de serviço, todas as leis e regulamentos aplicáveis.",
+    "section1": {
+      "title": "1. Termos",
+      "content": "Ao acessar ao site Agência Douro, concorda em cumprir estes termos de serviço, todas as leis e regulamentos aplicáveis ​​e concorda que é responsável pelo cumprimento de todas as leis locais aplicáveis. Se você não concordar com algum desses termos, está proibido de usar ou acessar este site. Os materiais contidos neste site são protegidos pelas leis de direitos autorais e marcas comerciais aplicáveis."
+    },
+    "section2": {
+      "title": "2. Uso de Licença",
+      "intro": "É concedida permissão para baixar temporariamente uma cópia dos materiais (informações ou software) no site Agência Douro, apenas para visualização transitória pessoal e não comercial. Esta é a concessão de uma licença, não uma transferência de título e, sob esta licença, você não pode:",
+      "item1": "modificar ou copiar os materiais;",
+      "item2": "usar os materiais para qualquer finalidade comercial ou para exibição pública (comercial ou não comercial);",
+      "item3": "tentar descompilar ou fazer engenharia reversa de qualquer software contido no site Agência Douro;",
+      "item4": "remover quaisquer direitos autorais ou outras notações de propriedade dos materiais; ou",
+      "item5": "transferir os materiais para outra pessoa ou 'espelhe' os materiais em qualquer outro servidor.",
+      "conclusion": "Esta licença será automaticamente rescindida se você violar alguma dessas restrições e poderá ser rescindida por Agência Douro a qualquer momento. Ao encerrar a visualização desses materiais ou após o término desta licença, você deve apagar todos os materiais baixados em sua posse, seja em formato eletrónico ou impresso."
+    },
+    "section3": {
+      "title": "3. Isenção de responsabilidade",
+      "content1": "Os materiais no site da Agência Douro são fornecidos 'como estão'. Agência Douro não oferece garantias, expressas ou implícitas, e, por este meio, isenta e nega todas as outras garantias, incluindo, sem limitação, garantias implícitas ou condições de comercialização, adequação a um fim específico ou não violação de propriedade intelectual ou outra violação de direitos.",
+      "content2": "Além disso, o Agência Douro não garante ou faz qualquer representação relativa à precisão, aos resultados prováveis ​​ou à confiabilidade do uso dos materiais em seu site ou de outra forma relacionado a esses materiais ou em sites vinculados a este site."
+    },
+    "section4": {
+      "title": "4. Limitações",
+      "content": "Em nenhum caso o Agência Douro ou seus fornecedores serão responsáveis ​​por quaisquer danos (incluindo, sem limitação, danos por perda de dados ou lucro ou devido a interrupção dos negócios) decorrentes do uso ou da incapacidade de usar os materiais em Agência Douro, mesmo que Agência Douro ou um representante autorizado da Agência Douro tenha sido notificado oralmente ou por escrito da possibilidade de tais danos. Como algumas jurisdições não permitem limitações em garantias implícitas, ou limitações de responsabilidade por danos conseqüentes ou incidentais, essas limitações podem não se aplicar a você."
+    },
+    "section5": {
+      "title": "5. Precisão dos materiais",
+      "content": "Os materiais exibidos no site da Agência Douro podem incluir erros técnicos, tipográficos ou fotográficos. Agência Douro não garante que qualquer material em seu site seja preciso, completo ou atual. Agência Douro pode fazer alterações nos materiais contidos em seu site a qualquer momento, sem aviso prévio. No entanto, Agência Douro não se compromete a atualizar os materiais."
+    },
+    "section6": {
+      "title": "6. Links",
+      "content": "O Agência Douro não analisou todos os sites vinculados ao seu site e não é responsável pelo conteúdo de nenhum site vinculado. A inclusão de qualquer link não implica endosso por Agência Douro do site. O uso de qualquer site vinculado é por conta e risco do usuário."
+    },
+    "section7": {
+      "title": "7. Modificações",
+      "content": "O Agência Douro pode revisar estes termos de serviço do site a qualquer momento, sem aviso prévio. Ao usar este site, você concorda em ficar vinculado à versão atual desses termos de serviço."
+    },
+    "section8": {
+      "title": "8. Lei aplicável",
+      "content": "Estes termos e condições são regidos e interpretados de acordo com as leis do Agência Douro e você se submete irrevogavelmente à jurisdição exclusiva dos tribunais naquele estado ou localidade."
+    }
+  }
+}
