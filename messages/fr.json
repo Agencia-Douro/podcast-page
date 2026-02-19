@@ -75,7 +75,7 @@
     "phoneNumber": "Numéro de téléphone portable",
     "phonePlaceholder": "+351 919 766 323",
     "email": "Email",
-    "emailPlaceholder": "contacto@agenciadouro.pt",
+    "emailPlaceholder": "podcastnorteimobiliario@gmail.com",
     "message": "Message",
     "messagePlaceholder": "Envoyez-nous un message !",
     "marketingConsent": "J'autorise Agência Douro à conserver ces données",
@@ -99,7 +99,7 @@
     "rent": "Louer",
     "developments": "Développements",
     "luxuryProperties": "Propriétés de luxe",
-    "copyright": "© Agência Douro. AMI 17 632",
+    "copyright": "© Norte Imobiliário Business",
     "termsAndConditions": "Termes et conditions",
     "complaintsBook": "Livre de réclamations en ligne"
   },
@@ -403,7 +403,7 @@
       "email": "Email",
       "namePlaceholder": "Tomas Ribeiro Silva",
       "phonePlaceholder": "+351 919 766 323",
-      "emailPlaceholder": "contacto@agenciadouro.pt"
+      "emailPlaceholder": "podcastnorteimobiliario@gmail.com"
     },
     "propertyData": {
       "title": "Données de la propriété",

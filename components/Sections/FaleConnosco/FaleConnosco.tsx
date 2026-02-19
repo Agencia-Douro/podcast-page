@@ -118,7 +118,7 @@ export const FaleConnosco = () => {
                 <div className="flex flex-col">
                     <h3 className="md:body-20-medium body-18-medium text-black mb-4 md:mb-6">{t("email")}</h3>
                     <p className="body-16-regular text-grey mb-4 text-balance hidden md:block">{t("emailDescription")}</p>
-                    <Link href="mailto:contacto@agenciadouro.pt" className="body-16-medium text-black underline underline-offset-4 decoration-1">contacto@agenciadouro.pt</Link>
+                    <Link href="mailto:podcastnorteimobiliario@gmail.com" className="body-16-medium text-black underline underline-offset-4 decoration-1">podcastnorteimobiliario@gmail.com</Link>
                 </div>
                 <div className="flex flex-col">
                     <h3 className="md:body-20-medium body-18-medium text-black mb-4 md:mb-6">{t("contact")}</h3>
@@ -134,35 +134,35 @@ export const FaleConnosco = () => {
                     <h3 className="md:body-20-medium body-18-medium text-black mb-4 md:mb-6">{t("socialMedia")}</h3>
                     <p className="body-16-regular text-grey mb-4 text-balance hidden md:block">{t("socialMediaDescription")}</p>
                     <div className="flex flex-col gap-x-4 gap-y-2">
-                        <Link href="https://www.instagram.com/agenciadouro" target="_blank" rel="noopener noreferrer" className="body-16-medium text-black flex items-center gap-2">
+                        <Link href="https://www.instagram.com/norteimobiliariobusiness/" target="_blank" rel="noopener noreferrer" className="body-16-medium text-black flex items-center gap-2">
                             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="currentColor" className="text-gold">
                                 <path d="M10.8567 1.66748C11.7946 1.66903 12.2698 1.674 12.6805 1.68622L12.8422 1.69151C13.0291 1.69815 13.2134 1.70648 13.4357 1.7169C14.3224 1.75787 14.9273 1.89815 15.4586 2.1044C16.0078 2.31621 16.4717 2.60231 16.9349 3.06551C17.3974 3.52871 17.6836 3.99398 17.8961 4.5419C18.1016 5.07246 18.2419 5.67801 18.2836 6.56481C18.2935 6.78704 18.3015 6.97137 18.3081 7.15824L18.3133 7.31998C18.3255 7.7306 18.3311 8.20592 18.3328 9.14379L18.3335 9.76512C18.3336 9.84104 18.3336 9.91937 18.3336 10.0002L18.3335 10.2353L18.333 10.8567C18.3314 11.7945 18.3265 12.2699 18.3142 12.6805L18.3089 12.8422C18.3023 13.0291 18.294 13.2135 18.2836 13.4356C18.2426 14.3225 18.1016 14.9273 17.8961 15.4585C17.6842 16.0079 17.3974 16.4718 16.9349 16.935C16.4717 17.3975 16.0057 17.6835 15.4586 17.896C14.9273 18.1016 14.3224 18.2419 13.4357 18.2835C13.2134 18.2935 13.0291 18.3015 12.8422 18.308L12.6805 18.3133C12.2698 18.3255 11.7946 18.331 10.8567 18.3329L10.2353 18.3335C10.1594 18.3335 10.0811 18.3335 10.0002 18.3335H9.76516L9.14375 18.333C8.20591 18.3315 7.7306 18.3265 7.31997 18.3142L7.15824 18.309C6.97136 18.3023 6.78703 18.294 6.56481 18.2835C5.67801 18.2426 5.07384 18.1016 4.5419 17.896C3.99328 17.6843 3.5287 17.3975 3.06551 16.935C2.60231 16.4718 2.3169 16.0058 2.1044 15.4585C1.89815 14.9273 1.75856 14.3225 1.7169 13.4356C1.707 13.2135 1.69892 13.0291 1.69238 12.8422L1.68714 12.6805C1.67495 12.2699 1.66939 11.7945 1.66759 10.8567L1.66748 9.14379C1.66903 8.20592 1.67399 7.7306 1.68621 7.31998L1.69151 7.15824C1.69815 6.97137 1.70648 6.78704 1.7169 6.56481C1.75786 5.67731 1.89815 5.07315 2.1044 4.5419C2.3162 3.99329 2.60231 3.52871 3.06551 3.06551C3.5287 2.60231 3.99398 2.3169 4.5419 2.1044C5.07315 1.89815 5.67731 1.75856 6.56481 1.7169C6.78703 1.70701 6.97136 1.69893 7.15824 1.69239L7.31997 1.68715C7.7306 1.67495 8.20591 1.66939 9.14375 1.66759L10.8567 1.66748ZM10.0002 5.83356C7.69781 5.83356 5.83356 7.69984 5.83356 10.0002C5.83356 12.3026 7.69984 14.1669 10.0002 14.1669C12.3027 14.1669 14.1669 12.3006 14.1669 10.0002C14.1669 7.69781 12.3006 5.83356 10.0002 5.83356ZM10.0002 7.50023C11.381 7.50023 12.5002 8.61912 12.5002 10.0002C12.5002 11.381 11.3813 12.5002 10.0002 12.5002C8.6195 12.5002 7.50023 11.3814 7.50023 10.0002C7.50023 8.61945 8.61908 7.50023 10.0002 7.50023ZM14.3752 4.58356C13.8008 4.58356 13.3336 5.05016 13.3336 5.62452C13.3336 6.1989 13.8002 6.66621 14.3752 6.66621C14.9496 6.66621 15.4169 6.19962 15.4169 5.62452C15.4169 5.05016 14.9488 4.58285 14.3752 4.58356Z" />
                             </svg>
-                            agenciadouro
+                            norteimobiliariobusiness
                         </Link>
-                        <Link href="https://www.facebook.com/agenciadouro" target="_blank" rel="noopener noreferrer" className="body-16-medium text-black flex items-center gap-2 md:mt-2">
+                        <Link href="https://www.facebook.com/norteimobiliariobusiness" target="_blank" rel="noopener noreferrer" className="body-16-medium text-black flex items-center gap-2 md:mt-2">
                             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="currentColor" className="text-gold">
                                 <path d="M10.0008 1.66626C5.39844 1.66626 1.66748 5.39722 1.66748 9.99959C1.66748 14.159 4.71486 17.6065 8.69875 18.2317V12.4084H6.58284V9.99959H8.69875V8.16366C8.69875 6.07512 9.94283 4.92147 11.8463 4.92147C12.7581 4.92147 13.7117 5.08423 13.7117 5.08423V7.13501H12.6609C11.6257 7.13501 11.3029 7.77738 11.3029 8.43643V9.99959H13.6141L13.2447 12.4084H11.3029V18.2317C15.2867 17.6065 18.3342 14.159 18.3342 9.99959C18.3342 5.39722 14.6032 1.66626 10.0008 1.66626Z" />
                             </svg>
-                            Agência Douro
+                            Norte Imobiliário Business
                         </Link>
-                        <Link href="https://www.linkedin.com/company/agência-douro" target="_blank" rel="noopener noreferrer" className="body-16-medium text-black flex items-center gap-2 md:mt-2">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="currentColor" className="text-gold">
-                                <path d="M4.16667 2.5C3.24619 2.5 2.5 3.24619 2.5 4.16667C2.5 5.08714 3.24619 5.83333 4.16667 5.83333C5.08714 5.83333 5.83333 5.08714 5.83333 4.16667C5.83333 3.24619 5.08714 2.5 4.16667 2.5ZM2.5 7.5V17.5H5.83333V7.5H2.5ZM7.5 7.5V17.5H10.8333V12.0833C10.8333 11.1629 11.5795 10.4167 12.5 10.4167C13.4205 10.4167 14.1667 11.1629 14.1667 12.0833V17.5H17.5V12.0833C17.5 9.32191 15.2614 7.08333 12.5 7.08333C11.3807 7.08333 10.3546 7.46944 9.53125 8.11198V7.5H7.5Z" />
-                            </svg>
-                            Agência Douro
-                        </Link>
-                        <Link href="https://www.tiktok.com/@douroimobiliaria" target="_blank" rel="noopener noreferrer" className="body-16-medium text-black flex items-center gap-2 md:mt-2">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="currentColor" className="text-gold">
-                                <path d="M14.1667 1.66667H11.25V13.3333C11.25 14.2538 10.5038 15 9.58333 15C8.66286 15 7.91667 14.2538 7.91667 13.3333C7.91667 12.4129 8.66286 11.6667 9.58333 11.6667V8.75C7.05208 8.75 5 10.8021 5 13.3333C5 15.8646 7.05208 17.9167 9.58333 17.9167C12.1146 17.9167 14.1667 15.8646 14.1667 13.3333V7.29167C15.1875 8.04167 16.4583 8.5 17.8333 8.5V5.58333C15.8021 5.58333 14.1667 3.94792 14.1667 1.66667Z" />
-                            </svg>
-                            douroimobiliaria
-                        </Link>
-                        <Link href="https://www.youtube.com/@agenciadouromediacaoimobil3889" target="_blank" rel="noopener noreferrer" className="body-16-medium text-black flex items-center gap-2 md:mt-2">
+                        <Link href="https://www.youtube.com/@norteimobiliariobusiness" target="_blank" rel="noopener noreferrer" className="body-16-medium text-black flex items-center gap-2 md:mt-2">
                             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="currentColor" className="text-gold">
                                 <path d="M17.7734 5.60156C17.5651 4.79948 16.9349 4.16927 16.1328 3.96094C14.6745 3.58333 10 3.58333 10 3.58333C10 3.58333 5.32552 3.58333 3.86719 3.96094C3.06511 4.16927 2.4349 4.79948 2.22656 5.60156C1.84896 7.0599 1.84896 10.1042 1.84896 10.1042C1.84896 10.1042 1.84896 13.1484 2.22656 14.6068C2.4349 15.4089 3.06511 16.0391 3.86719 16.2474C5.32552 16.625 10 16.625 10 16.625C10 16.625 14.6745 16.625 16.1328 16.2474C16.9349 16.0391 17.5651 15.4089 17.7734 14.6068C18.151 13.1484 18.151 10.1042 18.151 10.1042C18.151 10.1042 18.151 7.0599 17.7734 5.60156ZM8.22917 12.9167V7.29167L12.9167 10.1042L8.22917 12.9167Z" />
                             </svg>
-                            Agência Douro
+                            Norte Imobiliário Business
+                        </Link>
+                        <Link href="https://open.spotify.com/show/3K8jsTPPNt59OKWyubhA71" target="_blank" rel="noopener noreferrer" className="body-16-medium text-black flex items-center gap-2 md:mt-2">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor" className="text-gold">
+                                <path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z" />
+                            </svg>
+                            Norte Imobiliário Business
+                        </Link>
+                        <Link href="https://www.tiktok.com/@norteimobiliariobusiness" target="_blank" rel="noopener noreferrer" className="body-16-medium text-black flex items-center gap-2 md:mt-2">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="currentColor" className="text-gold">
+                                <path d="M14.1667 1.66667H11.25V13.3333C11.25 14.2538 10.5038 15 9.58333 15C8.66286 15 7.91667 14.2538 7.91667 13.3333C7.91667 12.4129 8.66286 11.6667 9.58333 11.6667V8.75C7.05208 8.75 5 10.8021 5 13.3333C5 15.8646 7.05208 17.9167 9.58333 17.9167C12.1146 17.9167 14.1667 15.8646 14.1667 13.3333V7.29167C15.1875 8.04167 16.4583 8.5 17.8333 8.5V5.58333C15.8021 5.58333 14.1667 3.94792 14.1667 1.66667Z" />
+                            </svg>
+                            norteimobiliariobusiness
                         </Link>
                     </div>
                 </div>

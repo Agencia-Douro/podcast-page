@@ -75,7 +75,7 @@
     "phoneNumber": "Número de Telemóvel",
     "phonePlaceholder": "+351 919 766 323",
     "email": "Email",
-    "emailPlaceholder": "contacto@agenciadouro.pt",
+    "emailPlaceholder": "podcastnorteimobiliario@gmail.com",
     "message": "Mensagem",
     "messagePlaceholder": "Envie-nos uma mensagem!",
     "marketingConsent": "Autorizo a Agência Douro a conservar estes dados",
@@ -99,7 +99,7 @@
     "rent": "Arrendar",
     "developments": "Empreendimentos",
     "luxuryProperties": "Imóveis de luxo",
-    "copyright": "© Agência Douro. AMI 17 632",
+    "copyright": "© Norte Imobiliário Business",
     "termsAndConditions": "Termos e condições",
     "complaintsBook": "Livro Reclamações Online"
   },
@@ -403,7 +403,7 @@
       "email": "Email",
       "namePlaceholder": "Tomas Ribeiro Silva",
       "phonePlaceholder": "+351 919 766 323",
-      "emailPlaceholder": "contacto@agenciadouro.pt"
+      "emailPlaceholder": "podcastnorteimobiliario@gmail.com"
     },
     "propertyData": {
       "title": "Dados do Imóvel",
@@ -494,7 +494,7 @@
       "phone": "Número de Telemóvel",
       "phonePlaceholder": "+351 919 766 323",
       "email": "Email",
-      "emailPlaceholder": "contacto@agenciadouro.pt",
+      "emailPlaceholder": "podcastnorteimobiliario@gmail.com",
       "location": "Localização",
       "locationPlaceholder": "Porto, Portugal",
       "propertyType": "Tipo de Imóvel",
@@ -616,7 +616,7 @@
     "message": "Mensagem",
     "namePlaceholder": "Tomas Ribeiro Silva",
     "phonePlaceholder": "+351 919 766 323",
-    "emailPlaceholder": "contacto@agenciadouro.pt",
+    "emailPlaceholder": "podcastnorteimobiliario@gmail.com",
     "messagePlaceholder": "Envie-nos uma mensagem!",
     "marketingConsent": "Autorizo a Agência Douro a conservar estes dados",
     "send": "Enviar",

@@ -4,6 +4,7 @@ import { Link } from "@/i18n/navigation";
 export default function FooterIcons() {
     return (
         <div className="flex items-center gap-3">
+            {/* 
             <Link
                 href="https://wa.me/351919766324"
                 target="_blank"
@@ -13,8 +14,9 @@ export default function FooterIcons() {
                     <path d="M10.0008 1.66626C14.6032 1.66626 18.3342 5.39722 18.3342 9.99959C18.3342 14.6019 14.6032 18.3329 10.0008 18.3329C8.47258 18.3329 7.04042 17.9216 5.80905 17.2035L1.67096 18.3329L2.7976 14.1925C2.07911 12.9609 1.66748 11.5283 1.66748 9.99959C1.66748 5.39722 5.39844 1.66626 10.0008 1.66626ZM6.9936 6.08987C6.88577 6.09744 6.78006 6.12378 6.68381 6.17302C6.6116 6.20996 6.54456 6.26335 6.43924 6.36281C6.33978 6.45672 6.28214 6.53873 6.22141 6.61781C5.91332 7.01893 5.74774 7.5113 5.75081 8.01708C5.75249 8.42593 5.85869 8.82326 6.02641 9.19426C6.36651 9.94659 6.9274 10.7419 7.66828 11.4795C7.84625 11.6567 8.02061 11.8358 8.20861 12.0013C9.12816 12.8109 10.224 13.3948 11.4089 13.7064C11.4089 13.7064 11.8756 13.7781 11.8824 13.7785C12.037 13.7868 12.1913 13.7757 12.3461 13.7678C12.5888 13.7553 12.8258 13.6896 13.0403 13.5753C13.1782 13.5019 13.2435 13.4654 13.3592 13.3924C13.3592 13.3924 13.3947 13.3684 13.4632 13.3174C13.5757 13.2336 13.6452 13.1746 13.7388 13.0774C13.8078 13.0058 13.8672 12.9211 13.913 12.8257C13.9782 12.6897 14.0437 12.4301 14.0698 12.2145C14.0897 12.0498 14.0837 11.9598 14.0816 11.9041C14.078 11.8144 14.0039 11.7222 13.9227 11.683L13.4382 11.4652C13.4382 11.4652 12.7136 11.1498 12.2704 10.9477C12.2242 10.9266 12.1737 10.9168 12.123 10.9138C12.0118 10.9069 11.8872 10.9359 11.808 11.0194C11.8038 11.0178 11.7487 11.0654 11.1457 11.7958C11.1125 11.8356 11.0346 11.922 10.8998 11.9139C10.8795 11.9125 10.8592 11.9096 10.8395 11.9044C10.7849 11.89 10.7317 11.871 10.6797 11.849C10.5767 11.8053 10.5405 11.7887 10.4701 11.7583C9.989 11.5482 9.5475 11.267 9.15725 10.9229C9.05258 10.8308 8.95525 10.7315 8.85491 10.6343C8.50475 10.2948 8.21807 9.93384 8.00481 9.57776C7.99316 9.55834 7.97522 9.53026 7.9559 9.49884C7.92101 9.44209 7.88252 9.37459 7.87046 9.32826C7.83948 9.20568 7.92166 9.10718 7.92166 9.10718C7.92166 9.10718 8.12449 8.88543 8.21873 8.76484C8.3094 8.64876 8.38766 8.53526 8.4375 8.45434C8.53566 8.29654 8.56675 8.13344 8.51516 8.00762C8.28136 7.43763 8.04015 6.87073 7.79155 6.30704C7.74248 6.1958 7.59654 6.11498 7.46382 6.09965C7.41887 6.09446 7.37396 6.08924 7.32882 6.08628C7.21711 6.08083 7.10516 6.08203 6.9936 6.08987Z" />
                 </svg>
             </Link>
+            */}
             <Link
-                href="https://www.instagram.com/agenciadouro"
+                href="https://www.instagram.com/norteimobiliariobusiness/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gold transition-colors">
@@ -23,7 +25,7 @@ export default function FooterIcons() {
                 </svg>
             </Link>
             <Link
-                href="https://www.facebook.com/agenciadouro"
+                href="https://www.facebook.com/norteimobiliariobusiness"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gold transition-colors">
@@ -32,7 +34,7 @@ export default function FooterIcons() {
                 </svg>
             </Link>
             <Link
-                href="https://www.linkedin.com/company/agência-douro"
+                href="https://www.linkedin.com/company/podcast-norte-imobili%C3%A1rio/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gold transition-colors">
@@ -41,7 +43,7 @@ export default function FooterIcons() {
                 </svg>
             </Link>
             <Link
-                href="https://www.tiktok.com/@douroimobiliaria"
+                href="https://www.tiktok.com/@norteimobiliariobusiness"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gold transition-colors">
@@ -50,7 +52,7 @@ export default function FooterIcons() {
                 </svg>
             </Link>
             <Link
-                href="https://www.youtube.com/@agenciadouromediacaoimobil3889"
+                href="https://www.youtube.com/@norteimobiliariobusiness"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gold transition-colors">
